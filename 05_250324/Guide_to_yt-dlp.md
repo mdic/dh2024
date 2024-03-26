@@ -5,10 +5,10 @@ This document contains the "plain-text" version of the commands needed to use `y
 ***NOTE***: `yt-dlp` saves the data inside the folder currently open in the terminal, which for both Windows and macOS is the `User` folder (so, for the username mdicristofaro `yt-dlp` saves the data inside `C:/Users/mdicristofaro/` on Windows). Assuming you have created a folder called `youtube` inside the `Downloads` folder, once the terminal is open you may type the following command to enter inside the `Downloads/youtube` folder:
 
 > **Windows**  
-`cd Downloads/youtube`  
+`cd Downloads\youtube`
   
 > **macOS**  
-`cd Downloads\youtube`
+`cd Downloads/youtube`
 
 ## Downloading subtitles and metadata for one single video (URL)
 The general syntax is as follows:  
