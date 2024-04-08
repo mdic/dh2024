@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text title="Can robots be creative? - Gil Weinberg" date_d="19" date_m="3" date_y="2015" likes="7909" format="srv3" autocaption="false">
+  <p time="10727" is_ac="false">How does this music make you feel?</p>
+  <p time="13032" is_ac="false">Do you find it beautiful?</p>
+  <p time="14701" is_ac="false">Is it creative?</p>
+  <p time="16337" is_ac="false">Now, would you change your answers</p>
+  <p time="18042" is_ac="false">if you learned 
+the composer was this robot?</p>
+  <p time="21522" is_ac="false">Believe it or not,</p>
+  <p time="23501" is_ac="false">people have been grappling with
+the question of artificial creativity,</p>
+  <p time="26818" is_ac="false">alongside the question 
+of artifcial intelligence,</p>
+  <p time="29825" is_ac="false">for over 170 years.</p>
+  <p time="32832" is_ac="false">In 1843, Lady Ada Lovelace,</p>
+  <p time="35840" is_ac="false">an English mathematician considered
+the world's first computer programmer,</p>
+  <p time="40149" is_ac="false">wrote that a machine could not have
+human-like intelligence</p>
+  <p time="43577" is_ac="false">as long as it only did what humans
+intentionally programmed it to do.</p>
+  <p time="49007" is_ac="false">According to Lovelace,</p>
+  <p time="50709" is_ac="false">a machine must be able 
+to create original ideas</p>
+  <p time="53694" is_ac="false">if it is to be considered intelligent.</p>
+  <p time="57392" is_ac="false">The Lovelace Test, formalized in 2001,
+proposes a way of scrutinizing this idea.</p>
+  <p time="63814" is_ac="false">A machine can pass this test
+if it can produce an outcome</p>
+  <p time="67256" is_ac="false">that its designers cannot explain 
+based on their original code.</p>
+  <p time="72260" is_ac="false">The Lovelace Test is, by design,
+more of a thought experiment</p>
+  <p time="75609" is_ac="false">than an objective scientific test.</p>
+  <p time="78020" is_ac="false">But it's a place to start.</p>
+  <p time="80039" is_ac="false">At first glance,</p>
+  <p time="81233" is_ac="false">the idea of a machine creating 
+high quality, original music in this way</p>
+  <p time="85153" is_ac="false">might seem impossible.</p>
+  <p time="87308" is_ac="false">We could come up with an extremely
+complex algorithm</p>
+  <p time="90202" is_ac="false">using random number generators,
+chaotic functions, and fuzzy logic</p>
+  <p time="94343" is_ac="false">to generate a sequence of musical notes</p>
+  <p time="96802" is_ac="false">in a way that would be 
+impossible to track.</p>
+  <p time="99476" is_ac="false">But although this would yield countless
+original melodies never heard before,</p>
+  <p time="103271" is_ac="false">only a tiny fraction of them
+would be worth listening to.</p>
+  <p time="107214" is_ac="false">With the computer having no way
+to distinguish</p>
+  <p time="109551" is_ac="false">between those which
+we would consider beautiful</p>
+  <p time="111974" is_ac="false">and those which we won't.</p>
+  <p time="114611" is_ac="false">But what if we took a step back</p>
+  <p time="116248" is_ac="false">and tried to model a natural process
+that allows creativity to form?</p>
+  <p time="121221" is_ac="false">We happen to know of at least
+one such process</p>
+  <p time="123473" is_ac="false">that has lead to original, valuable,
+and even beautiful outcomes:</p>
+  <p time="127995" is_ac="false">the process of evolution.</p>
+  <p time="130783" is_ac="false">And evolutionary algorithms,</p>
+  <p time="132981" is_ac="false">or genetic algorithms
+that mimic biological evolution,</p>
+  <p time="136240" is_ac="false">are one promising approach</p>
+  <p time="138543" is_ac="false">to making machines generate original
+and valuable artistic outcomes.</p>
+  <p time="144563" is_ac="false">So how can evolution make 
+a machine musically creative?</p>
+  <p time="147554" is_ac="false">Well, instead of organisms,</p>
+  <p time="149665" is_ac="false">we can start with an initial
+population of musical phrases,</p>
+  <p time="161378" is_ac="false">and a basic algorithm</p>
+  <p time="162841" is_ac="false">that mimics reproduction 
+and random mutations</p>
+  <p time="165765" is_ac="false">by switching some parts,</p>
+  <p time="168177" is_ac="false">combining others,</p>
+  <p time="169939" is_ac="false">and replacing random notes.</p>
+  <p time="172353" is_ac="false">Now that we have 
+a new generation of phrases,</p>
+  <p time="175051" is_ac="false">we can apply selection using 
+an operation called a fitness function.</p>
+  <p time="180005" is_ac="false">Just as biological fitness is determined
+by external environmental pressures,</p>
+  <p time="184307" is_ac="false">our fitness function can be determined
+by an external melody</p>
+  <p time="188464" is_ac="false">chosen by human musicians, or music fans,</p>
+  <p time="191310" is_ac="false">to represent the ultimate 
+beautiful melody.</p>
+  <p time="200115" is_ac="false">The algorithm can then compare
+between our musical phrases</p>
+  <p time="203301" is_ac="false">and that beautiful melody,</p>
+  <p time="205098" is_ac="false">and select only the phrases
+that are most similar to it.</p>
+  <p time="208951" is_ac="false">Once the least similar sequences
+are weeded out,</p>
+  <p time="211969" is_ac="false">the algorithm can reapply mutation
+and recombination to what's left,</p>
+  <p time="216498" is_ac="false">select the most similar, or fitted ones,
+again from the new generation,</p>
+  <p time="220802" is_ac="false">and repeat for many generations.</p>
+  <p time="228412" is_ac="false">The process that got us there has so much
+randomness and complexity built in</p>
+  <p time="232728" is_ac="false">that the result might 
+pass the Lovelace Test.</p>
+  <p time="236298" is_ac="false">More importantly, thanks to the presence 
+of human aesthetic in the process,</p>
+  <p time="240246" is_ac="false">we'll theoretically generate melodies
+we would consider beautiful.</p>
+  <p time="249327" is_ac="false">But does this satisfy our intuition
+for what is truly creative?</p>
+  <p time="253567" is_ac="false">Is it enough to make something
+original and beautiful,</p>
+  <p time="256111" is_ac="false">or does creativity require intention
+and awareness of what is being created?</p>
+  <p time="262397" is_ac="false">Perhaps the creativity in this case
+is really coming from the programmers,</p>
+  <p time="266193" is_ac="false">even if they don't understand the process.</p>
+  <p time="269018" is_ac="false">What is human creativity, anyways?</p>
+  <p time="271204" is_ac="false">Is it something more than a system
+of interconnected neurons</p>
+  <p time="274039" is_ac="false">developed by biological 
+algorithmic processes</p>
+  <p time="277182" is_ac="false">and the random experiences 
+that shape our lives?</p>
+  <p time="280615" is_ac="false">Order and chaos,
+machine and human.</p>
+  <p time="284152" is_ac="false">These are the dynamos at the heart
+of machine creativity initiatives</p>
+  <p time="288268" is_ac="false">that are currently making music, 
+sculptures, paintings, poetry and more.</p>
+  <p time="294270" is_ac="false">The jury may still be out</p>
+  <p time="295747" is_ac="false">as to whether it's fair to call 
+these acts of creation creative.</p>
+  <p time="300051" is_ac="false">But if a piece of art can make you weep,</p>
+  <p time="302432" is_ac="false">or blow your mind,</p>
+  <p time="303973" is_ac="false">or send shivers down your spine,</p>
+  <p time="306134" is_ac="false">does it really matter 
+who or what created it?</p>
+</text>

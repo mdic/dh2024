@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<body>
+<p t="6999" d="2035">What is consciousness?</p>
+<p t="9034" d="2794">Can an artificial machine really think?</p>
+<p t="11828" d="3286">Does the mind just consist of neurons
+in the brain,</p>
+<p t="15114" d="3643">or is there some intangible spark
+at its core?</p>
+<p t="18757" d="2568">For many, these have been
+vital considerations</p>
+<p t="21325" d="3027">for the future of artificial intelligence.</p>
+<p t="24352" d="5187">But British computer scientist Alan Turing
+decided to disregard all these questions</p>
+<p t="29539" d="2311">in favor of a much simpler one:</p>
+<p t="31850" d="3419">can a computer talk like a human?</p>
+<p t="35269" d="3996">This question led to an idea for measuring
+aritificial intelligence</p>
+<p t="39265" d="4051">that would famously come to be known
+as the Turing test.</p>
+<p t="43316" d="4025">In the 1950 paper, &quot;Computing Machinery
+and Intelligence,&quot;</p>
+<p t="47341" d="2473">Turing proposed the following game.</p>
+<p t="49814" d="4092">A human judge has a text conversation
+with unseen players</p>
+<p t="53906" d="2476">and evaluates their responses.</p>
+<p t="56382" d="4027">To pass the test, a computer must
+be able to replace one of the players</p>
+<p t="60409" d="3448">without substantially 
+changing the results.</p>
+<p t="63857" d="2959">In other words, a computer would be
+considered intelligent</p>
+<p t="66816" d="5697">if its conversation couldn&#39;t be easily
+distinguished from a human&#39;s.</p>
+<p t="72513" d="2154">Turing predicted that by the year 2000,</p>
+<p t="74667" d="5955">machines with 100 megabytes of memory
+would be able to easily pass his test.</p>
+<p t="80622" d="2164">But he may have jumped the gun.</p>
+<p t="82786" d="3054">Even though today&#39;s computers
+have far more memory than that,</p>
+<p t="85840" d="1803">few have succeeded,</p>
+<p t="87643" d="1795">and those that have done well</p>
+<p t="89438" d="3770">focused more on finding clever ways
+to fool judges</p>
+<p t="93208" d="2966">than using overwhelming computing power.</p>
+<p t="96174" d="2922">Though it was never subjected
+to a real test,</p>
+<p t="99096" d="4769">the first program with 
+some claim to success was called ELIZA.</p>
+<p t="103865" d="2547">With only a fairly short 
+and simple script,</p>
+<p t="106412" d="4022">it managed to mislead many people
+by mimicking a psychologist,</p>
+<p t="110434" d="1961">encouraging them to talk more</p>
+<p t="112395" d="3510">and reflecting their own questions
+back at them.</p>
+<p t="115905" d="3507">Another early script PARRY
+took the opposite approach</p>
+<p t="119412" d="2801">by imitating a paranoid schizophrenic</p>
+<p t="122213" d="5726">who kept steering the conversation
+back to his own preprogrammed obsessions.</p>
+<p t="127939" d="4864">Their success in fooling people
+highlighted one weakness of the test.</p>
+<p t="132803" d="4630">Humans regularly attribute intelligence
+to a whole range of things</p>
+<p t="137433" d="3643">that are not actually intelligent.</p>
+<p t="141076" d="3213">Nonetheless, annual competitions
+like the Loebner Prize,</p>
+<p t="144289" d="1720">have made the test more formal</p>
+<p t="146009" d="2146">with judges knowing ahead of time</p>
+<p t="148155" d="3864">that some of their conversation partners 
+are machines.</p>
+<p t="152019" d="1901">But while the quality has improved,</p>
+<p t="153920" d="5176">many chatbot programmers have used
+similar strategies to ELIZA and PARRY.</p>
+<p t="159096" d="2036">1997&#39;s winner Catherine</p>
+<p t="161132" d="4081">could carry on amazingly focused 
+and intelligent conversation,</p>
+<p t="165213" d="3962">but mostly if the judge wanted
+to talk about Bill Clinton.</p>
+<p t="169175" d="2638">And the more recent winner
+Eugene Goostman</p>
+<p t="171813" d="3736">was given the persona of a
+13-year-old Ukrainian boy,</p>
+<p t="175549" d="4021">so judges interpreted its nonsequiturs
+and awkward grammar</p>
+<p t="179570" d="3346">as language and culture barriers.</p>
+<p t="182916" d="4219">Meanwhile, other programs like Cleverbot
+have taken a different approach</p>
+<p t="187135" d="4605">by statistically analyzing huge databases
+of real conversations</p>
+<p t="191740" d="2541">to determine the best responses.</p>
+<p t="194281" d="3249">Some also store memories 
+of previous conversations</p>
+<p t="197530" d="3385">in order to improve over time.</p>
+<p t="200915" d="4151">But while Cleverbot&#39;s individual responses
+can sound incredibly human,</p>
+<p t="205066" d="2026">its lack of a consistent personality</p>
+<p t="207092" d="3153">and inability to deal 
+with brand new topics</p>
+<p t="210245" d="2613">are a dead giveaway.</p>
+<p t="212858" d="3254">Who in Turing&#39;s day could have predicted
+that today&#39;s computers</p>
+<p t="216112" d="2089">would be able to pilot spacecraft,</p>
+<p t="218201" d="2317">perform delicate surgeries,</p>
+<p t="220518" d="2289">and solve massive equations,</p>
+<p t="222807" d="3503">but still struggle with 
+the most basic small talk?</p>
+<p t="226310" d="3509">Human language turns out to be
+an amazingly complex phenomenon</p>
+<p t="229819" d="3705">that can&#39;t be captured by even
+the largest dictionary.</p>
+<p t="233524" d="4469">Chatbots can be baffled by simple pauses,
+like &quot;umm...&quot;</p>
+<p t="237993" d="2422">or questions with no correct answer.</p>
+<p t="240415" d="1900">And a simple conversational sentence,</p>
+<p t="242315" d="3280">like, &quot;I took the juice out of the fridge
+and gave it to him,</p>
+<p t="245595" d="1811">but forgot to check the date,&quot;</p>
+<p t="247406" d="5466">requires a wealth of underlying knowledge
+and intuition to parse.</p>
+<p t="252872" d="2631">It turns out that simulating 
+a human conversation</p>
+<p t="255503" d="3609">takes more than just increasing
+memory and processing power,</p>
+<p t="259112" d="2511">and as we get closer to Turing&#39;s goal,</p>
+<p t="261623" d="4860">we may have to deal with all those big
+questions about consciousness after all.</p>
+</body>
+</timedtext>

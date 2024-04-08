@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<body>
+<p t="9829" d="5167">Today, artificial intelligence helps
+doctors diagnose patients,</p>
+<p t="14996" d="5042">pilots fly commercial aircraft, 
+and city planners predict traffic.</p>
+<p t="20038" d="4250">But no matter what these AIs are doing,
+the computer scientists who designed them</p>
+<p t="24288" d="2750">likely don’t know exactly 
+how they’re doing it.</p>
+<p t="27038" d="3875">This is because artificial intelligence 
+is often self-taught,</p>
+<p t="30913" d="2374">working off a simple set of instructions</p>
+<p t="33287" d="3584">to create a unique array 
+of rules and strategies.</p>
+<p t="36871" d="2625">So how exactly does a machine learn?</p>
+<p t="39496" d="3000">There are many different ways 
+to build self-teaching programs.</p>
+<p t="42496" d="3916">But they all rely on the three 
+basic types of machine learning:</p>
+<p t="46412" d="5000">unsupervised learning, supervised 
+learning, and reinforcement learning.</p>
+<p t="51412" d="1959">To see these in action,</p>
+<p t="53371" d="3250">let’s imagine researchers are trying
+to pull information</p>
+<p t="56621" d="4208">from a set of medical data containing
+thousands of patient profiles.</p>
+<p t="61371" d="3125">First up, unsupervised learning.</p>
+<p t="64496" d="3333">This approach would be ideal
+for analyzing all the profiles</p>
+<p t="67829" d="3625">to find general similarities
+and useful patterns.</p>
+<p t="71454" d="3417">Maybe certain patients have similar
+disease presentations,</p>
+<p t="74871" d="4042">or perhaps a treatment produces
+specific sets of side effects.</p>
+<p t="78913" d="4125">This broad pattern-seeking approach 
+can be used to identify similarities</p>
+<p t="83038" d="3375">between patient profiles 
+and find emerging patterns,</p>
+<p t="86413" d="2291">all without human guidance.</p>
+<p t="88704" d="3209">But let&#39;s imagine doctors are looking
+for something more specific.</p>
+<p t="92371" d="2208">These physicians want 
+to create an algorithm</p>
+<p t="94579" d="2709">for diagnosing a particular condition.</p>
+<p t="97288" d="2583">They begin by collecting two sets of data—</p>
+<p t="99871" d="3375">medical images and test results
+from both healthy patients</p>
+<p t="103246" d="2417">and those diagnosed with the condition.</p>
+<p t="105663" d="2583">Then, they input this data into a program</p>
+<p t="108246" d="3375">designed to identify features
+shared by the sick patients</p>
+<p t="111621" d="2125">but not the healthy patients.</p>
+<p t="113746" d="3083">Based on how frequently 
+it sees certain features,</p>
+<p t="116829" d="4042">the program will assign values to those
+features’ diagnostic significance,</p>
+<p t="120871" d="3708">generating an algorithm 
+for diagnosing future patients.</p>
+<p t="124579" d="3167">However, unlike unsupervised learning,</p>
+<p t="127746" d="4625">doctors and computer scientists have 
+an active role in what happens next.</p>
+<p t="132371" d="2083">Doctors will make the final diagnosis</p>
+<p t="134454" d="2917">and check the accuracy 
+of the algorithm’s prediction.</p>
+<p t="137871" d="2917">Then computer scientists can use
+the updated datasets</p>
+<p t="140788" d="3500">to adjust the program’s parameters 
+and improve its accuracy.</p>
+<p t="144663" d="3166">This hands-on approach is called
+supervised learning.</p>
+<p t="147829" d="3167">Now, let’s say these doctors want 
+to design another algorithm</p>
+<p t="150996" d="1750">to recommend treatment plans.</p>
+<p t="152746" d="2833">Since these plans
+will be implemented in stages,</p>
+<p t="155579" d="3959">and they may change depending on each
+individual&#39;s response to treatments,</p>
+<p t="159538" d="2833">the doctors decide to use
+reinforcement learning.</p>
+<p t="162746" d="3167">This program uses an iterative approach
+to gather feedback</p>
+<p t="165913" d="4583">about which medications, dosages 
+and treatments are most effective.</p>
+<p t="170496" d="3000">Then, it compares that data 
+against each patient’s profile</p>
+<p t="173496" d="2833">to create their unique, optimal 
+treatment plan.</p>
+<p t="176329" d="3500">As the treatments progress and the program
+receives more feedback,</p>
+<p t="179829" d="3292">it can constantly update 
+the plan for each patient.</p>
+<p t="183121" d="3375">None of these three techniques are
+inherently smarter than any other.</p>
+<p t="186496" d="2667">While some require more or less 
+human intervention,</p>
+<p t="189163" d="2416">they all have their own strengths
+and weaknesses</p>
+<p t="191579" d="2250">which makes them best suited
+for certain tasks.</p>
+<p t="194329" d="2375">However, by using them together,</p>
+<p t="196704" d="2875">researchers can build complex AI systems,</p>
+<p t="199579" d="3292">where individual programs can 
+supervise and teach each other.</p>
+<p t="202871" d="2958">For example, 
+when our unsupervised learning program</p>
+<p t="205829" d="2334">finds groups of patients that are similar,</p>
+<p t="208163" d="3375">it could send that data to a connected 
+supervised learning program.</p>
+<p t="211829" d="3500">That program could then incorporate 
+this information into its predictions.</p>
+<p t="215871" d="2792">Or perhaps dozens of reinforcement
+learning programs</p>
+<p t="218663" d="2291">might simulate potential patient outcomes</p>
+<p t="220954" d="2750">to collect feedback 
+about different treatment plans.</p>
+<p t="223704" d="3125">There are numerous ways to create
+these machine-learning systems,</p>
+<p t="226829" d="1834">and perhaps the most promising models</p>
+<p t="228663" d="3416">are those that mimic the relationship 
+between neurons in the brain.</p>
+<p t="232079" d="3292">These artificial neural networks can use
+millions of connections</p>
+<p t="235371" d="4417">to tackle difficult tasks like 
+image recognition, speech recognition,</p>
+<p t="239788" d="2041">and even language translation.</p>
+<p t="241829" d="3292">However, the more self-directed
+these models become,</p>
+<p t="245121" d="2125">the harder it is for computer scientists</p>
+<p t="247246" d="3833">to determine how these self-taught 
+algorithms arrive at their solution.</p>
+<p t="251079" d="4459">Researchers are already looking at ways 
+to make machine learning more transparent.</p>
+<p t="255538" d="2916">But as AI becomes more involved
+in our everyday lives,</p>
+<p t="258454" d="2792">these enigmatic decisions have
+increasingly large impacts</p>
+<p t="261246" d="2875">on our work, health, and safety.</p>
+<p t="264121" d="4958">So as machines continue learning 
+to investigate, negotiate and communicate,</p>
+<p t="269079" d="5209">we must also consider how to teach them 
+to teach each other to operate ethically.</p>
+</body>
+</timedtext>

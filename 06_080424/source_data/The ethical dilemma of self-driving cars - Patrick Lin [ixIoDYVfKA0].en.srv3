@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<body>
+<p t="7246" d="2042">This is a thought experiment.</p>
+<p t="9288" d="2625">Let&#39;s say at some point
+in the not so distant future,</p>
+<p t="11913" d="3583">you&#39;re barreling down the highway
+in your self-driving car,</p>
+<p t="15496" d="4292">and you find yourself boxed in
+on all sides by other cars.</p>
+<p t="19788" d="4416">Suddenly, a large, heavy object
+falls off the truck in front of you.</p>
+<p t="24204" d="3167">Your car can&#39;t stop in time
+to avoid the collision,</p>
+<p t="27371" d="2042">so it needs to make a decision:</p>
+<p t="29413" d="2250">go straight and hit the object,</p>
+<p t="31663" d="2291">swerve left into an SUV,</p>
+<p t="33954" d="3000">or swerve right into a motorcycle.</p>
+<p t="36954" d="3500">Should it prioritize your safety
+by hitting the motorcycle,</p>
+<p t="40454" d="2792">minimize danger to others by not swerving,</p>
+<p t="43246" d="4083">even if it means hitting the large object
+and sacrificing your life,</p>
+<p t="47329" d="2750">or take the middle ground
+by hitting the SUV,</p>
+<p t="50079" d="3000">which has a high passenger safety rating?</p>
+<p t="53079" d="3208">So what should the self-driving car do?</p>
+<p t="56287" d="3209">If we were driving that boxed in car
+in manual mode,</p>
+<p t="59496" d="3541">whichever way we&#39;d react
+would be understood as just that,</p>
+<p t="63037" d="1292">a reaction,</p>
+<p t="64329" d="2250">not a deliberate decision.</p>
+<p t="66579" d="4292">It would be an instinctual panicked move
+with no forethought or malice.</p>
+<p t="70871" d="3625">But if a programmer were to instruct
+the car to make the same move,</p>
+<p t="74496" d="2833">given conditions it may 
+sense in the future,</p>
+<p t="77329" d="4292">well, that looks more
+like premeditated homicide.</p>
+<p t="81621" d="1000">Now, to be fair,</p>
+<p t="82621" d="4083">self-driving cars are predicted 
+to dramatically reduce traffic accidents</p>
+<p t="86704" d="1250">and fatalities</p>
+<p t="87954" d="3167">by removing human error 
+from the driving equation.</p>
+<p t="91121" d="2375">Plus, there may be all sorts 
+of other benefits:</p>
+<p t="93496" d="1667">eased road congestion,</p>
+<p t="95163" d="1541">decreased harmful emissions,</p>
+<p t="96704" d="4625">and minimized unproductive
+and stressful driving time.</p>
+<p t="101329" d="2167">But accidents can and will still happen,</p>
+<p t="103496" d="1167">and when they do,</p>
+<p t="104663" d="4500">their outcomes may be determined
+months or years in advance</p>
+<p t="109163" d="2583">by programmers or policy makers.</p>
+<p t="111746" d="2500">And they&#39;ll have 
+some difficult decisions to make.</p>
+<p t="114246" d="2958">It&#39;s tempting to offer up general 
+decision-making principles,</p>
+<p t="117204" d="1875">like minimize harm,</p>
+<p t="119079" d="3375">but even that quickly leads 
+to morally murky decisions.</p>
+<p t="122454" d="1167">For example,</p>
+<p t="123621" d="2000">let&#39;s say we have the same initial set up,</p>
+<p t="125621" d="2875">but now there&#39;s a motorcyclist 
+wearing a helmet to your left</p>
+<p t="128496" d="2792">and another one without 
+a helmet to your right.</p>
+<p t="131288" d="3083">Which one should 
+your robot car crash into?</p>
+<p t="134371" d="4083">If you say the biker with the helmet
+because she&#39;s more likely to survive,</p>
+<p t="138454" d="2917">then aren&#39;t you penalizing 
+the responsible motorist?</p>
+<p t="141371" d="2750">If, instead, you save the biker 
+without the helmet</p>
+<p t="144121" d="2000">because he&#39;s acting irresponsibly,</p>
+<p t="146121" d="4875">then you&#39;ve gone way beyond the initial
+design principle about minimizing harm,</p>
+<p t="150996" d="3875">and the robot car is now 
+meting out street justice.</p>
+<p t="154871" d="3542">The ethical considerations 
+get more complicated here.</p>
+<p t="158413" d="1375">In both of our scenarios,</p>
+<p t="159788" d="4500">the underlying design is functioning
+as a targeting algorithm of sorts.</p>
+<p t="164288" d="1000">In other words,</p>
+<p t="165288" d="2500">it&#39;s systematically favoring 
+or discriminating</p>
+<p t="167788" d="3500">against a certain type 
+of object to crash into.</p>
+<p t="171288" d="2333">And the owners of the target vehicles</p>
+<p t="173621" d="3042">will suffer the negative consequences
+of this algorithm</p>
+<p t="176663" d="2083">through no fault of their own.</p>
+<p t="178746" d="4667">Our new technologies are opening up
+many other novel ethical dilemmas.</p>
+<p t="183413" d="2083">For instance, if you had to 
+choose between</p>
+<p t="185496" d="4042">a car that would always save
+as many lives as possible in an accident,</p>
+<p t="189538" d="3041">or one that would save you at any cost,</p>
+<p t="192579" d="1667">which would you buy?</p>
+<p t="194246" d="3333">What happens if the cars start analyzing
+and factoring in</p>
+<p t="197579" d="3459">the passengers of the cars
+and the particulars of their lives?</p>
+<p t="201038" d="2166">Could it be the case 
+that a random decision</p>
+<p t="203204" d="4917">is still better than a predetermined one
+designed to minimize harm?</p>
+<p t="208121" d="2667">And who should be making 
+all of these decisions anyhow?</p>
+<p t="210829" d="2709">Programmers? Companies?
+Governments?</p>
+<p t="214121" d="3458">Reality may not play out exactly
+like our thought experiments,</p>
+<p t="217579" d="1667">but that&#39;s not the point.</p>
+<p t="219246" d="4333">They&#39;re designed to isolate 
+and stress test our intuitions on ethics,</p>
+<p t="223579" d="3000">just like science experiments do
+for the physical world.</p>
+<p t="226579" d="3375">Spotting these moral hairpin turns now</p>
+<p t="229954" d="3584">will help us maneuver the unfamiliar road
+of technology ethics,</p>
+<p t="233538" d="3750">and allow us to cruise confidently
+and conscientiously</p>
+<p t="237288" d="2375">into our brave new future.</p>
+</body>
+</timedtext>

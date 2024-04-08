@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<text title="Can machines read your emotions? - Kostas Karpouzis" date_d="29" date_m="11" date_y="2016" likes="5881" format="srv3" autocaption="false">
+  <p time="7052" is_ac="false">With every year, machines surpass humans
+in more and more activities</p>
+  <p time="11642" is_ac="false">we once thought only we were capable of.</p>
+  <p time="14848" is_ac="false">Today's computers can beat us
+in complex board games,</p>
+  <p time="18423" is_ac="false">transcribe speech in dozens of languages,</p>
+  <p time="21294" is_ac="false">and instantly identify almost any object.</p>
+  <p time="24746" is_ac="false">But the robots of tomorrow may go futher</p>
+  <p time="27112" is_ac="false">by learning to figure out 
+what we're feeling.</p>
+  <p time="30243" is_ac="false">And why does that matter?</p>
+  <p time="32381" is_ac="false">Because if machines 
+and the people who run them</p>
+  <p time="34673" is_ac="false">can accurately read our emotional states,</p>
+  <p time="37223" is_ac="false">they may be able to assist us
+or manipulate us</p>
+  <p time="40193" is_ac="false">at unprecedented scales.</p>
+  <p time="43102" is_ac="false">But before we get there,</p>
+  <p time="44614" is_ac="false">how can something so complex as emotion
+be converted into mere numbers,</p>
+  <p time="49653" is_ac="false">the only language machines understand?</p>
+  <p time="53253" is_ac="false">Essentially the same way our own brains
+interpret emotions,</p>
+  <p time="56843" is_ac="false">by learning how to spot them.</p>
+  <p time="58994" is_ac="false">American psychologist Paul Ekman
+identified certain universal emotions</p>
+  <p time="64120" is_ac="false">whose visual cues are understood
+the same way across cultures.</p>
+  <p time="69174" is_ac="false">For example, an image of a smile
+signals joy to modern urban dwellers</p>
+  <p time="74193" is_ac="false">and aboriginal tribesmen alike.</p>
+  <p time="76965" is_ac="false">And according to Ekman,</p>
+  <p time="78094" is_ac="false">anger,</p>
+  <p time="78823" is_ac="false">disgust,</p>
+  <p time="79533" is_ac="false">fear,</p>
+  <p time="80275" is_ac="false">joy,</p>
+  <p time="81092" is_ac="false">sadness,</p>
+  <p time="81848" is_ac="false">and surprise are equally recognizable.</p>
+  <p time="85433" is_ac="false">As it turns out, computers are rapidly
+getting better at image recognition</p>
+  <p time="89836" is_ac="false">thanks to machine learning algorithms,
+such as neural networks.</p>
+  <p time="94015" is_ac="false">These consist of artificial nodes that
+mimic our biological neurons</p>
+  <p time="98205" is_ac="false">by forming connections 
+and exchanging information.</p>
+  <p time="101784" is_ac="false">To train the network, sample inputs
+pre-classified into different categories,</p>
+  <p time="106285" is_ac="false">such as photos marked happy or sad,</p>
+  <p time="109175" is_ac="false">are fed into the system.</p>
+  <p time="111285" is_ac="false">The network then learns to classify
+those samples</p>
+  <p time="113745" is_ac="false">by adjusting the relative weights
+assigned to particular features.</p>
+  <p time="118405" is_ac="false">The more training data it's given,</p>
+  <p time="120025" is_ac="false">the better the algorithm becomes
+at correctly identifying new images.</p>
+  <p time="124795" is_ac="false">This is similar to our own brains,</p>
+  <p time="126527" is_ac="false">which learn from previous experiences
+to shape how new stimuli are processed.</p>
+  <p time="131725" is_ac="false">Recognition algorithms aren't just
+limited to facial expressions.</p>
+  <p time="135466" is_ac="false">Our emotions manifest in many ways.</p>
+  <p time="137886" is_ac="false">There's body language and vocal tone,</p>
+  <p time="140116" is_ac="false">changes in heart rate, complexion,
+and skin temperature,</p>
+  <p time="143237" is_ac="false">or even word frequency and sentence
+structure in our writing.</p>
+  <p time="148046" is_ac="false">You might think that training
+neural networks to recognize these</p>
+  <p time="151205" is_ac="false">would be a long and complicated task</p>
+  <p time="153637" is_ac="false">until you realize just how much 
+data is out there,</p>
+  <p time="156966" is_ac="false">and how quickly modern computers
+can process it.</p>
+  <p time="160375" is_ac="false">From social media posts,</p>
+  <p time="161917" is_ac="false">uploaded photos and videos,</p>
+  <p time="163586" is_ac="false">and phone recordings,</p>
+  <p time="164987" is_ac="false">to heat-sensitive security cameras</p>
+  <p time="166767" is_ac="false">and wearables that monitor
+physiological signs,</p>
+  <p time="170437" is_ac="false">the big question is not how to collect
+enough data,</p>
+  <p time="172947" is_ac="false">but what we're going to do with it.</p>
+  <p time="175255" is_ac="false">There are plenty of beneficial uses
+for computerized emotion recognition.</p>
+  <p time="179706" is_ac="false">Robots using algorithms to identify
+facial expressions</p>
+  <p time="182627" is_ac="false">can help children learn</p>
+  <p time="184246" is_ac="false">or provide lonely people
+with a sense of companionship.</p>
+  <p time="187636" is_ac="false">Social media companies are considering
+using algorithms</p>
+  <p time="190637" is_ac="false">to help prevent suicides by flagging posts
+that contain specific words or phrases.</p>
+  <p time="197047" is_ac="false">And emotion recognition software can help
+treat mental disorders</p>
+  <p time="201287" is_ac="false">or even provide people with low-cost
+automated psychotherapy.</p>
+  <p time="205578" is_ac="false">Despite the potential benefits,</p>
+  <p time="207188" is_ac="false">the prospect of a massive network
+automatically scanning our photos,</p>
+  <p time="210869" is_ac="false">communications,</p>
+  <p time="211958" is_ac="false">and physiological signs
+is also quite disturbing.</p>
+  <p time="216877" is_ac="false">What are the implications for our privacy
+when such impersonal systems</p>
+  <p time="220796" is_ac="false">are used by corporations to exploit
+our emotions through advertising?</p>
+  <p time="225208" is_ac="false">And what becomes of our rights</p>
+  <p time="226718" is_ac="false">if authorities think they can identify
+the people likely to commit crimes</p>
+  <p time="230737" is_ac="false">before they even make 
+a conscious decision to act?</p>
+  <p time="234927" is_ac="false">Robots currently have a long way to go</p>
+  <p time="237150" is_ac="false">in distinguishing emotional nuances,
+like irony,</p>
+  <p time="240258" is_ac="false">and scales of emotions,
+just how happy or sad someone is.</p>
+  <p time="244758" is_ac="false">Nonetheless, they may eventually be able
+to accurately read our emotions</p>
+  <p time="249288" is_ac="false">and respond to them.</p>
+  <p time="251138" is_ac="false">Whether they can empathize with our fear
+of unwanted intrusion, however,</p>
+  <p time="255389" is_ac="false">that's another story.</p>
+</text>

@@ -33,6 +33,11 @@ the following command processes the `.txt` file and downloads data for each vide
 
 where **you must replace `LIST_OF_URL.txt` and `[LL]`** with the name of the `.txt` file containing the links and the label of the language of the subtitles respectively (see below for getting the language label from the video).
 
+## Downloading subtitles and metadata for a list of videos (URLs) *skipping already downloaded subtitles*
+Assuming that the list of links you have collected contains (or may contain) duplicate links, the following command processes the list while writing a list of the ones already downloaded (`archive.txt`), so that the latter can be skipped while collecting the data
+
+> `yt-dlp -a LIST_OF_URL.txt --force-write-archive --download-archive archive.txt --write-info-json --skip-download --write-subs --write-auto-subs --sub-langs [LL] --sub-format srv3`
+
 ## Identifying the language label for a video subtitles
 The general syntax is as follows:
 
