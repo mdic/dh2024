@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="80" d="4239" w="1"><s ac="0">this</s><s t="160" ac="0"> little</s><s t="319" ac="0"> French</s><s t="639" ac="0"> restaurant</s><s t="1040" ac="0"> has</s><s t="1160" ac="0"> an</s></p>
+<p t="1350" d="2969" w="1" a="1">
+</p>
+<p t="1360" d="4560" w="1"><s ac="0">appetizer</s><s t="479" ac="0"> that</s><s t="640" ac="0"> cost</s><s t="1240" ac="0"> $90</s><s t="2240" ac="0"> a</s><s t="2359" ac="0"> 20</s><s t="2680" ac="0"> course</s></p>
+<p t="4309" d="1611" w="1" a="1">
+</p>
+<p t="4319" d="5001" w="1"><s ac="0">dinner</s><s t="321" ac="0"> at</s><s t="480" ac="0"> this</s><s t="721" ac="0"> gorgeous</s><s t="1081" ac="0"> restaurant</s><s t="1480" ac="0"> in</s></p>
+<p t="5910" d="3410" w="1" a="1">
+</p>
+<p t="5920" d="5080" w="1"><s ac="0">New</s><s t="160" ac="0"> York</s><s t="479" ac="0"> costed</s><s t="959" ac="0"> 320</s><s t="1800" ac="0"> bucks</s><s t="2200" ac="0"> per</s><s t="2480" ac="0"> person</s><s t="3200" ac="0"> and</s></p>
+<p t="9310" d="1690" w="1" a="1">
+</p>
+<p t="9320" d="4479" w="1"><s ac="0">this</s><s t="199" ac="0"> restaurant</s><s t="640" ac="0"> was</s><s t="800" ac="0"> ranked</s><s t="1160" ac="0"> one</s><s t="1279" ac="0"> of</s><s t="1439" ac="0"> the</s></p>
+<p t="10990" d="2809" w="1" a="1">
+</p>
+<p t="11000" d="4920" w="1"><s ac="0">best</s><s t="360" ac="0"> and</s><s t="639" ac="0"> most</s><s t="1120" ac="0"> expensive</s><s t="1639" ac="0"> places</s><s t="1920" ac="0"> to</s><s t="2040" ac="0"> eat</s><s t="2599" ac="0"> on</s></p>
+<p t="13789" d="2131" w="1" a="1">
+</p>
+<p t="13799" d="4400" w="1"><s ac="0">the</s><s t="201" ac="0"> planet</s><s t="800" ac="0"> but</s><s t="920" ac="0"> are</s><s t="1121" ac="0"> these</s><s t="1401" ac="0"> super</s><s t="1720" ac="0"> fancy</s></p>
+<p t="15910" d="2289" w="1" a="1">
+</p>
+<p t="15920" d="3800" w="1"><s ac="0">restaurants</s><s t="600" ac="0"> even</s><s t="960" ac="0"> that</s><s t="1160" ac="0"> good</s><s t="1920" ac="0"> I</s><s t="2000" ac="0"> want</s><s t="2119" ac="0"> to</s></p>
+<p t="18189" d="1531" w="1" a="1">
+</p>
+<p t="18199" d="3361" w="1"><s ac="0">know</s><s t="240" ac="0"> so</s><s t="441" ac="0"> I&#39;ll</s><s t="601" ac="0"> be</s><s t="721" ac="0"> dining</s><s t="1041" ac="0"> at</s><s t="1160" ac="0"> some</s><s t="1281" ac="0"> of</s><s t="1401" ac="0"> the</s></p>
+<p t="19710" d="1850" w="1" a="1">
+</p>
+<p t="19720" d="3879" w="1"><s ac="0">world&#39;s</s><s t="360" ac="0"> most</s><s t="600" ac="0"> luxurious</s><s t="1200" ac="0"> restaurants</s><s t="1680" ac="0"> to</s></p>
+<p t="21550" d="2049" w="1" a="1">
+</p>
+<p t="21560" d="4959" w="1"><s ac="0">see</s><s t="200" ac="0"> if</s><s t="320" ac="0"> they&#39;re</s><s t="680" ac="0"> actually</s><s t="1000" ac="0"> worth</s><s t="1280" ac="0"> the</s><s t="1440" ac="0"> price</s></p>
+<p t="23589" d="2930" w="1" a="1">
+</p>
+<p t="23599" d="4561" w="1"><s ac="0">or</s><s t="440" ac="0"> if</s><s t="680" ac="0"> they&#39;re</s><s t="1000" ac="0"> just</s><s t="1161" ac="0"> a</s><s t="1401" ac="0"> scam</s><s t="1961" ac="0"> starting</s><s t="2401" ac="0"> in</s></p>
+<p t="26509" d="1651" w="1" a="1">
+</p>
+<p t="26519" d="3961" w="1"><s ac="0">Los</s><s t="281" ac="0"> Alamos</s></p>
+<p t="28150" d="2330" w="1" a="1">
+</p>
+<p t="28160" d="4919" w="1"><s ac="0">California</s><s t="1000" ac="0"> the</s><s t="1279" ac="0"> uh</s><s t="1400" ac="0"> one</s><s t="2000" ac="0"> Michelin</s></p>
+<p t="30470" d="2609" w="1" a="1">
+</p>
+<p t="30480" d="4280" w="1"><s ac="0">restaurants</s><s t="799" ac="0"> behind</s><s t="1039" ac="0"> me</s><s t="1799" ac="0"> this</s><s t="1880" ac="0"> is</s><s t="2040" ac="0"> Bells</s><s t="2480" ac="0"> a</s></p>
+<p t="33069" d="1691" w="1" a="1">
+</p>
+<p t="33079" d="3961" w="1"><s ac="0">French</s><s t="320" ac="0"> inspired</s><s t="721" ac="0"> beastro</s><s t="1241" ac="0"> with</s><s t="1401" ac="0"> one</s></p>
+<p t="34750" d="2290" w="1" a="1">
+</p>
+<p t="34760" d="5279" w="1"><s ac="0">Michelin</s><s t="440" ac="0"> star</s><s t="1080" ac="0"> it&#39;s</s><s t="1240" ac="0"> run</s><s t="1520" ac="0"> by</s><s t="1639" ac="0"> Chef</s><s t="1959" ac="0"> Daisy</s></p>
+<p t="37030" d="3009" w="1" a="1">
+</p>
+<p t="37040" d="4120" w="1"><s ac="0">Ryan</s><s t="679" ac="0"> and</s><s t="800" ac="0"> it&#39;s</s><s t="1039" ac="0"> got</s><s t="1199" ac="0"> $3</s><s t="1880" ac="0"> signs</s><s t="2280" ac="0"> on</s><s t="2519" ac="0"> Google</s></p>
+<p t="40029" d="1131" w="1" a="1">
+</p>
+<p t="40039" d="3040" w="1"><s ac="0">that</s><s t="121" ac="0"> means</s></p>
+<p t="41150" d="1929" w="1" a="1">
+</p>
+<p t="41160" d="5000" w="1"><s ac="0">expensive</s><s t="1000" ac="0"> okay</s><s t="1160" ac="0"> guys</s><s t="1320" ac="0"> seriously</s><s t="1680" ac="0"> look</s><s t="1800" ac="0"> at</s></p>
+<p t="43069" d="3091" w="1" a="1">
+</p>
+<p t="43079" d="4681" w="1"><s ac="0">this</s><s t="201" ac="0"> place</s><s t="601" ac="0"> it&#39;s</s><s t="1000" ac="0"> adorable</s><s t="1841" ac="0"> it&#39;s</s><s t="2000" ac="0"> so</s><s t="2480" ac="0"> tiny</s></p>
+<p t="46150" d="1610" w="1" a="1">
+</p>
+<p t="46160" d="3559" w="1"><s ac="0">now</s><s t="120" ac="0"> the</s><s t="200" ac="0"> Michelin</s><s t="640" ac="0"> stars</s><s t="1000" ac="0"> supposedly</s></p>
+<p t="47750" d="1969" w="1" a="1">
+</p>
+<p t="47760" d="4160" w="1"><s ac="0">represent</s><s t="439" ac="0"> the</s><s t="639" ac="0"> highest</s><s t="959" ac="0"> level</s><s t="1200" ac="0"> of</s><s t="1360" ac="0"> food</s><s t="1720" ac="0"> and</s></p>
+<p t="49709" d="2211" w="1" a="1">
+</p>
+<p t="49719" d="3640" w="1"><s ac="0">restaurant</s><s t="520" ac="0"> experience</s><s t="1241" ac="0"> possible</s><s t="2041" ac="0"> that&#39;s</s></p>
+<p t="51910" d="1449" w="1" a="1">
+</p>
+<p t="51920" d="3760" w="1"><s ac="0">why</s><s t="119" ac="0"> eating</s><s t="400" ac="0"> at</s><s t="560" ac="0"> these</s><s t="720" ac="0"> restaurants</s><s t="1200" ac="0"> comes</s></p>
+<p t="53349" d="2331" w="1" a="1">
+</p>
+<p t="53359" d="4200" w="1"><s ac="0">with</s><s t="161" ac="0"> a</s><s t="441" ac="0"> very</s><s t="840" ac="0"> big</s><s t="1081" ac="0"> price</s><s t="1360" ac="0"> tag</s><s t="1921" ac="0"> but</s><s t="2081" ac="0"> some</s></p>
+<p t="55670" d="1889" w="1" a="1">
+</p>
+<p t="55680" d="3800" w="1"><s ac="0">people</s><s t="320" ac="0"> consider</s><s t="760" ac="0"> these</s><s t="1000" ac="0"> restaurants</s></p>
+<p t="57549" d="1931" w="1" a="1">
+</p>
+<p t="57559" d="3680" w="1"><s ac="0">overrated</s><s t="1000" ac="0"> there&#39;s</s><s t="1160" ac="0"> only</s><s t="1361" ac="0"> one</s><s t="1520" ac="0"> way</s><s t="1640" ac="0"> to</s><s t="1761" ac="0"> find</s></p>
+<p t="59470" d="1769" w="1" a="1">
+</p>
+<p t="59480" d="2919" w="1"><s ac="0">out</s><s t="239" ac="0"> though</s><s t="919" ac="0"> so</s><s t="1079" ac="0"> here&#39;s</s><s t="1280" ac="0"> the</s><s t="1399" ac="0"> thing</s><s t="1599" ac="0"> I&#39;ve</s></p>
+<p t="61229" d="1170" w="1" a="1">
+</p>
+<p t="61239" d="3801" w="1"><s ac="0">never</s><s t="201" ac="0"> actually</s><s t="320" ac="0"> eaten</s><s t="561" ac="0"> at</s><s t="640" ac="0"> a</s><s t="721" ac="0"> Michin</s><s t="1000" ac="0"> Star</s></p>
+<p t="62389" d="2651" w="1" a="1">
+</p>
+<p t="62399" d="3701" w="1"><s ac="0">Restaurant</s><s t="401" ac="0"> before</s><s t="961" ac="0"> so</s><s t="1961" ac="0"> I</s><s t="2040" ac="0"> have</s><s t="2201" ac="0"> no</s><s t="2321" ac="0"> idea</s><s t="2561" ac="0"> what</s></p>
+<p t="65030" d="1070" w="1" a="1">
+</p>
+<p t="65040" d="3880" w="1"><s ac="0">to</s></p>
+<p t="66090" d="2830" w="1" a="1">
+</p>
+<p t="66100" d="5900" w="1">[Music]</p>
+<p t="68910" d="3090" w="1" a="1">
+</p>
+<p t="68920" d="4760" w="1"><s ac="0">expect</s><s t="1000" ac="0"> morning</s><s t="1839" ac="0"> coming</s><s t="2440" ac="0"> so</s><s t="2600" ac="0"> the</s><s t="2720" ac="0"> inside</s><s t="2960" ac="0"> of</s></p>
+<p t="71990" d="1690" w="1" a="1">
+</p>
+<p t="72000" d="4040" w="1"><s ac="0">the</s><s t="119" ac="0"> restaurant</s><s t="560" ac="0"> was</s><s t="720" ac="0"> surprisingly</s><s t="1360" ac="0"> pretty</s></p>
+<p t="73670" d="2370" w="1" a="1">
+</p>
+<p t="73680" d="4119" w="1"><s ac="0">cozy</s><s t="360" ac="0"> and</s><s t="520" ac="0"> inviting</s><s t="1479" ac="0"> this</s><s t="1680" ac="0"> is</s><s t="1799" ac="0"> what</s><s t="1920" ac="0"> a</s><s t="2040" ac="0"> fancy</s></p>
+<p t="76030" d="1769" w="1" a="1">
+</p>
+<p t="76040" d="3719" w="1"><s ac="0">restaurant</s><s t="560" ac="0"> usually</s><s t="1000" ac="0"> looks</s><s t="1240" ac="0"> like</s><s t="1520" ac="0"> pretty</s></p>
+<p t="77789" d="1970" w="1" a="1">
+</p>
+<p t="77799" d="3441" w="1"><s ac="0">lame</s><s t="360" ac="0"> but</s><s t="561" ac="0"> here</s><s t="1000" ac="0"> it</s><s t="1121" ac="0"> feels</s><s t="1360" ac="0"> like</s><s t="1521" ac="0"> you&#39;re</s><s t="1680" ac="0"> just</s></p>
+<p t="79749" d="1491" w="1" a="1">
+</p>
+<p t="79759" d="4761" w="1"><s ac="0">inside</s><s t="400" ac="0"> someone&#39;s</s></p>
+<p t="81230" d="3290" w="1" a="1">
+</p>
+<p t="81240" d="5919" w="1"><s ac="0">house</s><s t="1000" ac="0"> so</s><s t="1239" ac="0"> I</s><s t="1400" ac="0"> just</s><s t="1559" ac="0"> sat</s><s t="1839" ac="0"> down</s><s t="2320" ac="0"> and</s><s t="2480" ac="0"> this</s><s t="2800" ac="0"> place</s></p>
+<p t="84510" d="2649" w="1" a="1">
+</p>
+<p t="84520" d="4040" w="1"><s ac="0">is</s><s t="239" ac="0"> even</s><s t="520" ac="0"> cuter</s><s t="959" ac="0"> inside</s><s t="1440" ac="0"> than</s><s t="1559" ac="0"> it</s><s t="1720" ac="0"> is</s><s t="2000" ac="0"> outside</s></p>
+<p t="87149" d="1411" w="1" a="1">
+</p>
+<p t="87159" d="3841" w="1"><s ac="0">I</s><s t="121" ac="0"> ordered</s><s t="401" ac="0"> a</s><s t="521" ac="0"> cup</s><s t="681" ac="0"> of</s><s t="801" ac="0"> coffee</s><s t="1041" ac="0"> since</s><s t="1201" ac="0"> it</s><s t="1280" ac="0"> was</s></p>
+<p t="88550" d="2450" w="1" a="1">
+</p>
+<p t="88560" d="4199" w="1"><s ac="0">11:00</s><s t="280" ac="0"> in</s><s t="400" ac="0"> the</s><s t="480" ac="0"> morning</s><s t="1599" ac="0"> I</s><s t="1720" ac="0"> feel</s><s t="1919" ac="0"> Fancy</s><s t="2280" ac="0"> with</s></p>
+<p t="90990" d="1769" w="1" a="1">
+</p>
+<p t="91000" d="5079" w="1"><s ac="0">my</s></p>
+<p t="92749" d="3330" w="1" a="1">
+</p>
+<p t="92759" d="4841" w="1"><s ac="0">coffee</s><s t="1000" ac="0"> that</s><s t="1201" ac="0"> a</s><s t="1360" ac="0"> good</s><s t="1561" ac="0"> coffee</s><s t="2360" ac="0"> I</s><s t="2441" ac="0"> needed</s><s t="2761" ac="0"> that</s></p>
+<p t="96069" d="1531" w="1" a="1">
+</p>
+<p t="96079" d="3161" w="1"><s ac="0">then</s><s t="281" ac="0"> I</s><s t="400" ac="0"> took</s><s t="601" ac="0"> a</s><s t="720" ac="0"> look</s><s t="841" ac="0"> at</s><s t="961" ac="0"> the</s><s t="1040" ac="0"> menu</s><s t="1400" ac="0"> and</s></p>
+<p t="97590" d="1650" w="1" a="1">
+</p>
+<p t="97600" d="2960" w="1"><s ac="0">noticed</s><s t="360" ac="0"> there</s><s t="479" ac="0"> was</s><s t="600" ac="0"> an</s><s t="799" ac="0"> appetizer</s><s t="1479" ac="0"> that</s></p>
+<p t="99230" d="1330" w="1" a="1">
+</p>
+<p t="99240" d="5199" w="1"><s ac="0">costed</s></p>
+<p t="100550" d="3889" w="1" a="1">
+</p>
+<p t="100560" d="5720" w="1"><s ac="0">$90</s><s t="1000" ac="0"> feels</s><s t="1280" ac="0"> a</s><s t="1400" ac="0"> little</s><s t="1680" ac="0"> scammy</s><s t="2199" ac="0"> to</s><s t="2559" ac="0"> me</s><s t="3559" ac="0"> okay</s><s t="3680" ac="0"> so</s></p>
+<p t="104429" d="1851" w="1" a="1">
+</p>
+<p t="104439" d="5241" w="1"><s ac="0">my</s><s t="121" ac="0"> waiter</s><s t="481" ac="0"> said</s><s t="720" ac="0"> to</s><s t="881" ac="0"> get</s><s t="1040" ac="0"> the</s><s t="1161" ac="0"> Santa</s><s t="1521" ac="0"> Barbara</s></p>
+<p t="106270" d="3410" w="1" a="1">
+</p>
+<p t="106280" d="5799" w="1"><s ac="0">oi</s><s t="760" ac="0"> for</s><s t="1000" ac="0"> the</s><s t="1199" ac="0"> content</s><s t="1839" ac="0"> so</s><s t="2080" ac="0"> I</s><s t="2240" ac="0"> did</s><s t="2879" ac="0"> I</s><s t="3000" ac="0"> also</s><s t="3199" ac="0"> got</s></p>
+<p t="109670" d="2409" w="1" a="1">
+</p>
+<p t="109680" d="4320" w="1"><s ac="0">snails</s><s t="719" ac="0"> the</s><s t="840" ac="0"> price</s><s t="1160" ac="0"> definitely</s><s t="1520" ac="0"> threw</s><s t="1799" ac="0"> me</s><s t="1960" ac="0"> off</s></p>
+<p t="112069" d="1931" w="1" a="1">
+</p>
+<p t="112079" d="4680" w="1"><s ac="0">but</s><s t="161" ac="0"> it&#39;s</s><s t="400" ac="0"> fine</s><s t="801" ac="0"> what</s><s t="921" ac="0"> I</s><s t="1040" ac="0"> was</s><s t="1241" ac="0"> most</s><s t="1481" ac="0"> worried</s></p>
+<p t="113990" d="2769" w="1" a="1">
+</p>
+<p t="114000" d="5000" w="1"><s ac="0">about</s><s t="280" ac="0"> was</s><s t="439" ac="0"> this</s><s t="680" ac="0"> review</s><s t="1040" ac="0"> I</s><s t="1159" ac="0"> found</s><s t="1520" ac="0"> from</s><s t="1799" ac="0"> De</s><s t="2200" ac="0"> o</s></p>
+<p t="116749" d="2251" w="1" a="1">
+</p>
+<p t="116759" d="5081" w="1"><s ac="0">don&#39;t</s><s t="280" ac="0"> go</s><s t="521" ac="0"> here</s><s t="720" ac="0"> if</s><s t="801" ac="0"> you&#39;re</s><s t="1000" ac="0"> hungry</s><s t="1960" ac="0"> this</s></p>
+<p t="118990" d="2850" w="1" a="1">
+</p>
+<p t="119000" d="6560" w="1"><s ac="0">restaurant</s><s t="520" ac="0"> is</s><s t="840" ac="0"> stingy</s><s t="1759" ac="0"> their</s><s t="1960" ac="0"> Entre</s><s t="2520" ac="0"> are</s></p>
+<p t="121830" d="3730" w="1" a="1">
+</p>
+<p t="121840" d="5080" w="1"><s ac="0">tiny</s><s t="599" ac="0"> and</s><s t="760" ac="0"> I</s><s t="879" ac="0"> mean</s><s t="1639" ac="0"> microscopic</s><s t="2639" ac="0"> one</s><s t="2959" ac="0"> star</s><s t="3639" ac="0"> it</s></p>
+<p t="125550" d="1370" w="1" a="1">
+</p>
+<p t="125560" d="4039" w="1"><s ac="0">didn&#39;t</s><s t="280" ac="0"> take</s><s t="440" ac="0"> long</s><s t="599" ac="0"> for</s><s t="760" ac="0"> the</s><s t="839" ac="0"> food</s><s t="1080" ac="0"> to</s><s t="1199" ac="0"> come</s></p>
+<p t="126910" d="2689" w="1" a="1">
+</p>
+<p t="126920" d="4800" w="1"><s ac="0">out</s><s t="239" ac="0"> and</s><s t="360" ac="0"> at</s><s t="519" ac="0"> first</s><s t="800" ac="0"> glance</s><s t="1800" ac="0"> pretty</s><s t="2080" ac="0"> small</s></p>
+<p t="129589" d="2131" w="1" a="1">
+</p>
+<p t="129599" d="4280" w="1"><s ac="0">these</s><s t="160" ac="0"> are</s><s t="440" ac="0"> just</s><s t="601" ac="0"> the</s><s t="761" ac="0"> appetizers</s><s t="1481" ac="0"> though</s><s t="1761" ac="0"> so</s></p>
+<p t="131710" d="2169" w="1" a="1">
+</p>
+<p t="131720" d="6200" w="1"><s ac="0">hopefully</s><s t="480" ac="0"> they</s><s t="640" ac="0"> taste</s><s t="1000" ac="0"> good</s><s t="1519" ac="0"> this</s><s t="1800" ac="0"> is</s><s t="2000" ac="0"> the</s></p>
+<p t="133869" d="4051" w="1" a="1">
+</p>
+<p t="133879" d="7000" w="1"><s ac="0">Santa</s><s t="321" ac="0"> Barbara</s><s t="681" ac="0"> oi</s><s t="1321" ac="0"> caviar</s><s t="2281" ac="0"> panacotta</s><s t="3281" ac="0"> fancy</s></p>
+<p t="137910" d="2969" w="1" a="1">
+</p>
+<p t="137920" d="6039" w="1"><s ac="0">words</s><s t="1000" ac="0"> but</s><s t="1200" ac="0"> very</s><s t="1399" ac="0"> cute</s><s t="1640" ac="0"> spoon</s><s t="2560" ac="0"> if</s><s t="2640" ac="0"> you</s><s t="2760" ac="0"> didn&#39;t</s></p>
+<p t="140869" d="3090" w="1" a="1">
+</p>
+<p t="140879" d="5961" w="1"><s ac="0">know</s><s t="321" ac="0"> oi</s><s t="761" ac="0"> is</s><s t="921" ac="0"> sea</s><s t="1121" ac="0"> urchin</s><s t="1841" ac="0"> this</s><s t="2121" ac="0"> ugly</s><s t="2481" ac="0"> guy</s><s t="2961" ac="0"> I</s></p>
+<p t="143949" d="2891" w="1" a="1">
+</p>
+<p t="143959" d="6681" w="1"><s ac="0">got</s><s t="81" ac="0"> a</s><s t="201" ac="0"> big</s><s t="360" ac="0"> scoop</s><s t="681" ac="0"> with</s><s t="801" ac="0"> my</s><s t="961" ac="0"> tiny</s></p>
+<p t="146830" d="3810" w="1" a="1">
+</p>
+<p t="146840" d="5960" w="1"><s ac="0">spoon</s><s t="1000" ac="0"> oh</s><s t="1240" ac="0"> that&#39;s</s><s t="2119" ac="0"> that&#39;s</s><s t="2399" ac="0"> fantastic</s><s t="3280" ac="0"> what</s></p>
+<p t="150630" d="2170" w="1" a="1">
+</p>
+<p t="150640" d="4679" w="1"><s ac="0">thank</s><s t="200" ac="0"> you</s><s t="319" ac="0"> for</s><s t="560" ac="0"> recommending</s><s t="1160" ac="0"> this</s><s t="1679" ac="0"> so</s><s t="1920" ac="0"> good</s></p>
+<p t="152790" d="2529" w="1" a="1">
+</p>
+<p t="152800" d="5000" w="1"><s ac="0">right</s><s t="480" ac="0"> you</s><s t="600" ac="0"> try</s><s t="880" ac="0"> the</s><s t="1079" ac="0"> uh</s><s t="1280" ac="0"> snails</s><s t="1719" ac="0"> let</s><s t="1799" ac="0"> me</s><s t="1960" ac="0"> know</s></p>
+<p t="155309" d="2491" w="1" a="1">
+</p>
+<p t="155319" d="5161" w="1"><s ac="0">forgot</s><s t="361" ac="0"> I</s><s t="481" ac="0"> ordered</s><s t="1121" ac="0"> snails</s><s t="2121" ac="0"> how</s><s t="2241" ac="0"> am</s><s t="2321" ac="0"> I</s></p>
+<p t="157790" d="2690" w="1" a="1">
+</p>
+<p t="157800" d="4640" w="1"><s ac="0">supposed</s><s t="120" ac="0"> to</s><s t="200" ac="0"> eat</s><s t="360" ac="0"> it</s><s t="1000" ac="0"> okay</s><s t="1280" ac="0"> so</s><s t="2280" ac="0"> get</s><s t="2400" ac="0"> a</s><s t="2519" ac="0"> piece</s></p>
+<p t="160470" d="1970" w="1" a="1">
+</p>
+<p t="160480" d="5240" w="1"><s ac="0">of</s><s t="80" ac="0"> the</s><s t="200" ac="0"> bread</s><s t="720" ac="0"> I</s><s t="839" ac="0"> was</s><s t="960" ac="0"> told</s><s t="1360" ac="0"> to</s><s t="1520" ac="0"> eat</s><s t="1679" ac="0"> a</s><s t="1800" ac="0"> piece</s></p>
+<p t="162430" d="3290" w="1" a="1">
+</p>
+<p t="162440" d="5960" w="1"><s ac="0">of</s><s t="200" ac="0"> bread</s><s t="840" ac="0"> and</s><s t="1000" ac="0"> dip</s><s t="1200" ac="0"> it</s><s t="1360" ac="0"> in</s><s t="1560" ac="0"> here</s><s t="2400" ac="0"> how</s><s t="2560" ac="0"> I</s><s t="2719" ac="0"> do</s></p>
+<p t="165710" d="2690" w="1" a="1">
+</p>
+<p t="165720" d="4519" w="1"><s ac="0">this</s><s t="1000" ac="0"> the</s><s t="1120" ac="0"> snails</s><s t="1480" ac="0"> weren&#39;t</s><s t="1840" ac="0"> bad</s><s t="2400" ac="0"> they</s><s t="2480" ac="0"> were</s></p>
+<p t="168390" d="1849" w="1" a="1">
+</p>
+<p t="168400" d="3960" w="1"><s ac="0">actually</s><s t="199" ac="0"> pretty</s><s t="440" ac="0"> good</s><s t="1040" ac="0"> with</s><s t="1160" ac="0"> the</s><s t="1320" ac="0"> appetizers</s></p>
+<p t="170229" d="2131" w="1" a="1">
+</p>
+<p t="170239" d="4280" w="1"><s ac="0">out</s><s t="121" ac="0"> of</s><s t="241" ac="0"> the</s><s t="321" ac="0"> way</s><s t="481" ac="0"> I</s><s t="601" ac="0"> ordered</s><s t="920" ac="0"> a</s><s t="1041" ac="0"> few</s><s t="1241" ac="0"> Entre</s></p>
+<p t="172350" d="2169" w="1" a="1">
+</p>
+<p t="172360" d="4840" w="1"><s ac="0">that</s><s t="120" ac="0"> way</s><s t="320" ac="0"> I</s><s t="440" ac="0"> could</s></p>
+<p t="174509" d="2691" w="1" a="1">
+</p>
+<p t="174519" d="5401" w="1"><s ac="0">test</s><s t="1000" ac="0"> all</s><s t="1121" ac="0"> right</s><s t="1321" ac="0"> I</s><s t="1401" ac="0"> see</s><s t="1561" ac="0"> the</s><s t="1640" ac="0"> food</s><s t="1881" ac="0"> coming</s><s t="2080" ac="0"> out</s></p>
+<p t="177190" d="2730" w="1" a="1">
+</p>
+<p t="177200" d="5800" w="1"><s ac="0">it&#39;s</s><s t="160" ac="0"> the</s><s t="280" ac="0"> moment</s><s t="480" ac="0"> of</s><s t="679" ac="0"> truth</s><s t="1480" ac="0"> is</s><s t="1640" ac="0"> it</s></p>
+<p t="179910" d="3090" w="1" a="1">
+</p>
+<p t="179920" d="5760" w="1"><s ac="0">microscopic</s><s t="1000" ac="0"> oh</s><s t="1239" ac="0"> wo</s><s t="1760" ac="0"> turns</s><s t="2000" ac="0"> out</s><s t="2599" ac="0"> this</s><s t="2880" ac="0"> may</s></p>
+<p t="182990" d="2690" w="1" a="1">
+</p>
+<p t="183000" d="4360" w="1"><s ac="0">have</s><s t="159" ac="0"> been</s><s t="319" ac="0"> a</s><s t="440" ac="0"> mistake</s><s t="1440" ac="0"> whoa</s><s t="2440" ac="0"> okay</s><s t="2519" ac="0"> I</s><s t="2599" ac="0"> don&#39;t</s></p>
+<p t="185670" d="1690" w="1" a="1">
+</p>
+<p t="185680" d="3160" w="1"><s ac="0">know</s><s t="119" ac="0"> what</s><s t="199" ac="0"> that</s><s t="320" ac="0"> review</s><s t="559" ac="0"> was</s><s t="680" ac="0"> talking</s><s t="919" ac="0"> about</s></p>
+<p t="187350" d="1490" w="1" a="1">
+</p>
+<p t="187360" d="4840" w="1"><s ac="0">this</s><s t="120" ac="0"> is</s></p>
+<p t="188830" d="3370" w="1" a="1">
+</p>
+<p t="188840" d="6479" w="1"><s ac="0">huge</s><s t="1000" ac="0"> I</s><s t="1119" ac="0"> got</s><s t="1280" ac="0"> this</s><s t="1440" ac="0"> egg</s><s t="1640" ac="0"> salad</s></p>
+<p t="192190" d="3129" w="1" a="1">
+</p>
+<p t="192200" d="6240" w="1"><s ac="0">sandwich</s><s t="1000" ac="0"> pretty</s><s t="1280" ac="0"> yummy</s><s t="2119" ac="0"> and</s><s t="2280" ac="0"> this</s><s t="2520" ac="0"> giant</s><s t="2840" ac="0"> pot</s></p>
+<p t="195309" d="3131" w="1" a="1">
+</p>
+<p t="195319" d="5121" w="1"><s ac="0">of</s><s t="241" ac="0"> a</s><s t="401" ac="0"> muscles</s><s t="761" ac="0"> and</s><s t="920" ac="0"> Fries</s><s t="1801" ac="0"> a</s><s t="1920" ac="0"> lot</s><s t="2081" ac="0"> of</s><s t="2200" ac="0"> food</s><s t="3041" ac="0"> I</s></p>
+<p t="198430" d="2010" w="1" a="1">
+</p>
+<p t="198440" d="4079" w="1"><s ac="0">was</s><s t="159" ac="0"> told</s><s t="359" ac="0"> to</s><s t="480" ac="0"> take</s><s t="640" ac="0"> the</s><s t="760" ac="0"> fries</s><s t="1439" ac="0"> and</s><s t="1600" ac="0"> dip</s><s t="1799" ac="0"> it</s><s t="1879" ac="0"> in</s></p>
+<p t="200430" d="2089" w="1" a="1">
+</p>
+<p t="200440" d="2079" w="1"><s ac="0">the</s></p>
+<p t="202710" w="1" a="1">
+</p>
+<p t="202720" d="3320" w="1"><s ac="0">broth</s><s t="1000" ac="0"> that&#39;s</s><s t="1120" ac="0"> the</s><s t="1200" ac="0"> best</s><s t="1360" ac="0"> dipping</s><s t="1599" ac="0"> sauce</s><s t="1799" ac="0"> for</s></p>
+<p t="204589" d="1451" w="1" a="1">
+</p>
+<p t="204599" d="3840" w="1"><s ac="0">French</s><s t="241" ac="0"> fries</s><s t="441" ac="0"> I&#39;ve</s><s t="560" ac="0"> ever</s><s t="720" ac="0"> had</s><s t="1081" ac="0"> the</s><s t="1161" ac="0"> entire</s></p>
+<p t="206030" d="2409" w="1" a="1">
+</p>
+<p t="206040" d="4680" w="1"><s ac="0">meal</s><s t="199" ac="0"> ended</s><s t="440" ac="0"> up</s><s t="600" ac="0"> costing</s></p>
+<p t="208429" d="2291" w="1" a="1">
+</p>
+<p t="208439" d="5041" w="1"><s ac="0">$161.9</s><s t="1000" ac="0"> which</s><s t="1360" ac="0"> wasn&#39;t</s><s t="1601" ac="0"> too</s><s t="1800" ac="0"> bad</s><s t="2000" ac="0"> since</s><s t="2201" ac="0"> I</s></p>
+<p t="210710" d="2770" w="1" a="1">
+</p>
+<p t="210720" d="4439" w="1"><s ac="0">ordered</s><s t="360" ac="0"> a</s><s t="519" ac="0"> lot</s><s t="680" ac="0"> of</s><s t="840" ac="0"> food</s><s t="1719" ac="0"> very</s><s t="2000" ac="0"> good</s><s t="2480" ac="0"> okay</s><s t="2640" ac="0"> now</s></p>
+<p t="213470" d="1689" w="1" a="1">
+</p>
+<p t="213480" d="3440" w="1"><s ac="0">that</s><s t="119" ac="0"> lunch</s><s t="319" ac="0"> is</s><s t="440" ac="0"> over</s><s t="759" ac="0"> I</s><s t="920" ac="0"> definitely</s><s t="1240" ac="0"> see</s><s t="1520" ac="0"> why</s></p>
+<p t="215149" d="1771" w="1" a="1">
+</p>
+<p t="215159" d="3961" w="1"><s ac="0">this</s><s t="121" ac="0"> place</s><s t="360" ac="0"> has</s><s t="481" ac="0"> a</s><s t="601" ac="0"> Michelin</s><s t="1000" ac="0"> star</s><s t="1601" ac="0"> my</s></p>
+<p t="216910" d="2210" w="1" a="1">
+</p>
+<p t="216920" d="5080" w="1"><s ac="0">favorite</s><s t="360" ac="0"> part</s><s t="1080" ac="0"> was</s><s t="1399" ac="0"> the</s><s t="1560" ac="0"> fact</s><s t="1800" ac="0"> that</s><s t="2000" ac="0"> this</s></p>
+<p t="219110" d="2890" w="1" a="1">
+</p>
+<p t="219120" d="5160" w="1"><s ac="0">restaurant</s><s t="960" ac="0"> feels</s><s t="1560" ac="0"> very</s><s t="1880" ac="0"> cozy</s><s t="2360" ac="0"> and</s><s t="2600" ac="0"> very</s></p>
+<p t="221990" d="2290" w="1" a="1">
+</p>
+<p t="222000" d="4280" w="1"><s ac="0">inviting</s><s t="879" ac="0"> honestly</s><s t="1239" ac="0"> y&#39;all</s><s t="1480" ac="0"> I&#39;m</s><s t="1640" ac="0"> expecting</s></p>
+<p t="224270" d="2010" w="1" a="1">
+</p>
+<p t="224280" d="4959" w="1"><s ac="0">something</s><s t="400" ac="0"> completely</s><s t="1000" ac="0"> different</s><s t="1640" ac="0"> from</s><s t="1879" ac="0"> the</s></p>
+<p t="226270" d="2969" w="1" a="1">
+</p>
+<p t="226280" d="2959" w="1"><s ac="0">two</s><s t="319" ac="0"> and</s><s t="519" ac="0"> three</s><s t="760" ac="0"> star</s></p>
+<p t="230390" w="1" a="1">
+</p>
+<p t="230400" d="6199" w="1"><s ac="0">restaurants</s><s t="1000" ac="0"> I</s><s t="1080" ac="0"> am</s><s t="1280" ac="0"> now</s><s t="1559" ac="0"> in</s><s t="1800" ac="0"> ter</s><s t="2240" ac="0"> town</s><s t="2479" ac="0"> in</s><s t="2679" ac="0"> New</s></p>
+<p t="233270" d="3329" w="1" a="1">
+</p>
+<p t="233280" d="4519" w="1"><s ac="0">York</s><s t="760" ac="0"> behind</s><s t="1000" ac="0"> me</s><s t="1360" ac="0"> is</s><s t="1480" ac="0"> a</s><s t="1679" ac="0"> 2023</s><s t="2480" ac="0"> Toyota</s><s t="2840" ac="0"> Camry</s></p>
+<p t="236589" d="1210" w="1" a="1">
+</p>
+<p t="236599" d="4200" w="1"><s ac="0">the</s><s t="81" ac="0"> next</s><s t="241" ac="0"> restaurant</s><s t="601" ac="0"> that</s><s t="681" ac="0"> I&#39;m</s><s t="801" ac="0"> going</s><s t="920" ac="0"> to</s><s t="1081" ac="0"> is</s></p>
+<p t="237789" d="3010" w="1" a="1">
+</p>
+<p t="237799" d="5681" w="1"><s ac="0">on</s><s t="80" ac="0"> a</s><s t="241" ac="0"> hill</s><s t="601" ac="0"> so</s><s t="881" ac="0"> I</s><s t="961" ac="0"> have</s><s t="1041" ac="0"> to</s><s t="1160" ac="0"> drive</s><s t="1481" ac="0"> there</s></p>
+<p t="240789" d="2691" w="1" a="1">
+</p>
+<p t="240799" d="4720" w="1"><s ac="0">I</s><s t="121" ac="0"> also</s><s t="321" ac="0"> brought</s><s t="561" ac="0"> my</s><s t="1000" ac="0"> girlfriend</s><s t="2000" ac="0"> hi</s><s t="2160" ac="0"> Carrie</s></p>
+<p t="243470" d="2049" w="1" a="1">
+</p>
+<p t="243480" d="4360" w="1"><s ac="0">hello</s><s t="880" ac="0"> so</s><s t="1039" ac="0"> we&#39;re</s><s t="1160" ac="0"> driving</s><s t="1399" ac="0"> to</s><s t="1479" ac="0"> the</s><s t="1599" ac="0"> restaurant</s></p>
+<p t="245509" d="2331" w="1" a="1">
+</p>
+<p t="245519" d="5401" w="1"><s ac="0">now</s><s t="280" ac="0"> and</s><s t="521" ac="0"> I&#39;ve</s><s t="761" ac="0"> only</s><s t="1041" ac="0"> seen</s><s t="1481" ac="0"> pictures</s><s t="1881" ac="0"> of</s><s t="2041" ac="0"> it</s></p>
+<p t="247830" d="3090" w="1" a="1">
+</p>
+<p t="247840" d="5399" w="1"><s ac="0">online</s><s t="959" ac="0"> but</s><s t="1160" ac="0"> the</s><s t="1280" ac="0"> thing</s><s t="1479" ac="0"> is</s><s t="1759" ac="0"> it&#39;s</s><s t="1880" ac="0"> on</s><s t="2160" ac="0"> a</s><s t="2520" ac="0"> huge</s></p>
+<p t="250910" d="2329" w="1" a="1">
+</p>
+<p t="250920" d="4159" w="1"><s ac="0">Farm</s><s t="760" ac="0"> which</s><s t="1039" ac="0"> is</s><s t="1159" ac="0"> going</s><s t="1280" ac="0"> to</s><s t="1399" ac="0"> be</s><s t="1640" ac="0"> so</s><s t="1959" ac="0"> different</s></p>
+<p t="253229" d="1850" w="1" a="1">
+</p>
+<p t="253239" d="4000" w="1"><s ac="0">than</s><s t="121" ac="0"> the</s><s t="321" ac="0"> tiny</s><s t="640" ac="0"> onear</s><s t="1161" ac="0"> restaurant</s><s t="1601" ac="0"> that</s><s t="1761" ac="0"> I</s></p>
+<p t="255069" d="2170" w="1" a="1">
+</p>
+<p t="255079" d="4601" w="1"><s ac="0">was</s><s t="201" ac="0"> just</s><s t="440" ac="0"> at</s><s t="921" ac="0"> but</s><s t="1120" ac="0"> despite</s><s t="1481" ac="0"> this</s><s t="1680" ac="0"> restaurant</s></p>
+<p t="257229" d="2451" w="1" a="1">
+</p>
+<p t="257239" d="4481" w="1"><s ac="0">supposedly</s><s t="641" ac="0"> being</s><s t="921" ac="0"> amazing</s><s t="1560" ac="0"> there&#39;s</s><s t="1840" ac="0"> a</s><s t="2120" ac="0"> lot</s></p>
+<p t="259670" d="2050" w="1" a="1">
+</p>
+<p t="259680" d="4000" w="1"><s ac="0">of</s><s t="200" ac="0"> bad</s><s t="440" ac="0"> reviews</s><s t="839" ac="0"> about</s><s t="1079" ac="0"> this</s><s t="1239" ac="0"> place</s><s t="1720" ac="0"> this</s><s t="1920" ac="0"> guy</s></p>
+<p t="261710" d="1970" w="1" a="1">
+</p>
+<p t="261720" d="5080" w="1"><s ac="0">Frank</s><s t="359" ac="0"> even</s><s t="520" ac="0"> said</s><s t="759" ac="0"> the</s><s t="840" ac="0"> restaurant</s><s t="1280" ac="0"> was</s><s t="1440" ac="0"> a</s><s t="1640" ac="0"> big</s></p>
+<p t="263670" d="3130" w="1" a="1">
+</p>
+<p t="263680" d="4359" w="1"><s ac="0">scam</s><s t="519" ac="0"> but</s><s t="760" ac="0"> I</s><s t="920" ac="0"> will</s><s t="1120" ac="0"> be</s><s t="1280" ac="0"> the</s><s t="1440" ac="0"> judge</s><s t="1680" ac="0"> of</s><s t="1959" ac="0"> that</s><s t="2959" ac="0"> we</s></p>
+<p t="266790" d="1249" w="1" a="1">
+</p>
+<p t="266800" d="4040" w="1"><s ac="0">made</s><s t="160" ac="0"> it</s></p>
+<p t="268029" d="2811" w="1" a="1">
+</p>
+<p t="268039" d="5121" w="1"><s ac="0">y&#39;all</s><s t="1000" ac="0"> this</s><s t="1160" ac="0"> place</s><s t="1321" ac="0"> is</s><s t="1600" ac="0"> huge</s><s t="2041" ac="0"> this</s><s t="2321" ac="0"> is</s><s t="2481" ac="0"> blue</s></p>
+<p t="270830" d="2330" w="1" a="1">
+</p>
+<p t="270840" d="4320" w="1"><s ac="0">hill</s><s t="240" ac="0"> at</s><s t="400" ac="0"> Stone</s><s t="680" ac="0"> Barnes</s><s t="1400" ac="0"> a</s><s t="1520" ac="0"> two</s><s t="1720" ac="0"> Michelin</s><s t="2079" ac="0"> star</s></p>
+<p t="273150" d="2010" w="1" a="1">
+</p>
+<p t="273160" d="5240" w="1"><s ac="0">restaurant</s><s t="400" ac="0"> focused</s><s t="759" ac="0"> on</s><s t="879" ac="0"> Farm</s><s t="1200" ac="0"> totable</s><s t="1680" ac="0"> style</s></p>
+<p t="275150" d="3250" w="1" a="1">
+</p>
+<p t="275160" d="6240" w="1"><s ac="0">food</s><s t="479" ac="0"> owned</s><s t="800" ac="0"> by</s><s t="920" ac="0"> Chef</s><s t="1240" ac="0"> Dan</s><s t="1479" ac="0"> Barber</s><s t="2280" ac="0"> and</s><s t="2960" ac="0"> it</s><s t="3120" ac="0"> has</s></p>
+<p t="278390" d="3010" w="1" a="1">
+</p>
+<p t="278400" d="5079" w="1"><s ac="0">$4</s><s t="799" ac="0"> signs</s><s t="1519" ac="0"> on</s><s t="1799" ac="0"> Google</s><s t="2400" ac="0"> things</s><s t="2600" ac="0"> are</s><s t="2760" ac="0"> getting</s></p>
+<p t="281390" d="2089" w="1" a="1">
+</p>
+<p t="281400" d="4000" w="1"><s ac="0">more</s><s t="239" ac="0"> expensive</s><s t="920" ac="0"> our</s><s t="1160" ac="0"> reservation</s><s t="1840" ac="0"> actually</s></p>
+<p t="283469" d="1931" w="1" a="1">
+</p>
+<p t="283479" d="4440" w="1"><s ac="0">starts</s><s t="280" ac="0"> with</s><s t="401" ac="0"> a</s><s t="560" ac="0"> walking</s><s t="841" ac="0"> tour</s><s t="1121" ac="0"> of</s><s t="1280" ac="0"> the</s><s t="1440" ac="0"> entire</s></p>
+<p t="285390" d="2529" w="1" a="1">
+</p>
+<p t="285400" d="4200" w="1"><s ac="0">property</s><s t="639" ac="0"> but</s><s t="840" ac="0"> before</s><s t="1160" ac="0"> we</s><s t="1400" ac="0"> get</s><s t="1560" ac="0"> into</s><s t="1799" ac="0"> all</s><s t="2040" ac="0"> that</s></p>
+<p t="287909" d="1691" w="1" a="1">
+</p>
+<p t="287919" d="4161" w="1"><s ac="0">there&#39;s</s><s t="241" ac="0"> some</s><s t="401" ac="0"> reviews</s><s t="761" ac="0"> I</s><s t="840" ac="0"> got</s><s t="961" ac="0"> to</s><s t="1081" ac="0"> look</s><s t="1241" ac="0"> at</s><s t="1521" ac="0"> so</s></p>
+<p t="289590" d="2490" w="1" a="1">
+</p>
+<p t="289600" d="5039" w="1"><s ac="0">this</s><s t="159" ac="0"> first</s><s t="400" ac="0"> review</s><s t="680" ac="0"> is</s><s t="840" ac="0"> from</s><s t="1039" ac="0"> M</s><s t="1520" ac="0"> smyrnov</s><s t="2360" ac="0"> this</s></p>
+<p t="292070" d="2569" w="1" a="1">
+</p>
+<p t="292080" d="6160" w="1"><s ac="0">one&#39;s</s><s t="240" ac="0"> literally</s><s t="600" ac="0"> just</s><s t="720" ac="0"> a</s><s t="880" ac="0"> picture</s><s t="1119" ac="0"> of</s><s t="1240" ac="0"> a</s><s t="1559" ac="0"> cat</s></p>
+<p t="294629" d="3611" w="1" a="1">
+</p>
+<p t="294639" d="6560" w="1"><s ac="0">um</s><s t="840" ac="0"> and</s><s t="1000" ac="0"> it&#39;s</s><s t="1161" ac="0"> one</s><s t="1361" ac="0"> star</s><s t="2161" ac="0"> so</s><s t="2961" ac="0"> it</s><s t="3081" ac="0"> also</s><s t="3361" ac="0"> has</s></p>
+<p t="298230" d="2969" w="1" a="1">
+</p>
+<p t="298240" d="4920" w="1"><s ac="0">three</s><s t="320" ac="0"> thumbs</s><s t="679" ac="0"> up</s><s t="1040" ac="0"> so</s><s t="1519" ac="0"> I</s><s t="1640" ac="0"> don&#39;t</s><s t="1959" ac="0"> really</s><s t="2239" ac="0"> know</s></p>
+<p t="301189" d="1971" w="1" a="1">
+</p>
+<p t="301199" d="3560" w="1"><s ac="0">what</s><s t="201" ac="0"> that</s><s t="361" ac="0"> means</s><s t="840" ac="0"> is</s><s t="961" ac="0"> this</s><s t="1201" ac="0"> cat</s><s t="1401" ac="0"> on</s><s t="1601" ac="0"> like</s><s t="1761" ac="0"> the</s></p>
+<p t="303150" d="1609" w="1" a="1">
+</p>
+<p t="303160" d="3360" w="1"><s ac="0">property</s><s t="640" ac="0"> why</s><s t="759" ac="0"> would</s><s t="879" ac="0"> you</s><s t="1000" ac="0"> give</s><s t="1120" ac="0"> a</s><s t="1280" ac="0"> cat</s><s t="1440" ac="0"> one</s></p>
+<p t="304749" d="1771" w="1" a="1">
+</p>
+<p t="304759" d="4241" w="1"><s ac="0">star</s><s t="241" ac="0"> did</s><s t="401" ac="0"> it</s><s t="521" ac="0"> like</s><s t="681" ac="0"> bite</s><s t="921" ac="0"> you</s><s t="1121" ac="0"> or</s><s t="1280" ac="0"> something</s><s t="1681" ac="0"> I</s></p>
+<p t="306510" d="2490" w="1" a="1">
+</p>
+<p t="306520" d="5000" w="1"><s ac="0">don&#39;t</s><s t="399" ac="0"> really</s><s t="1080" ac="0"> know</s><s t="1320" ac="0"> what</s><s t="1440" ac="0"> to</s><s t="1679" ac="0"> expect</s><s t="2360" ac="0"> but</s></p>
+<p t="308990" d="2530" w="1" a="1">
+</p>
+<p t="309000" d="3919" w="1"><s ac="0">we&#39;re</s><s t="160" ac="0"> going</s><s t="240" ac="0"> to</s><s t="840" ac="0"> I&#39;m</s><s t="919" ac="0"> going</s><s t="1000" ac="0"> to</s><s t="1120" ac="0"> go</s><s t="1240" ac="0"> walk</s><s t="1520" ac="0"> now</s></p>
+<p t="311510" d="1409" w="1" a="1">
+</p>
+<p t="311520" d="2840" w="1"><s ac="0">so</s><s t="160" ac="0"> the</s><s t="239" ac="0"> walking</s><s t="480" ac="0"> tour</s><s t="800" ac="0"> begins</s><s t="1119" ac="0"> at</s><s t="1239" ac="0"> the</s></p>
+<p t="312909" d="1451" w="1" a="1">
+</p>
+<p t="312919" d="2801" w="1"><s ac="0">restaurant&#39;s</s><s t="521" ac="0"> green</s><s t="840" ac="0"> houses</s><s t="1120" ac="0"> where</s><s t="1280" ac="0"> they</s></p>
+<p t="314350" d="1370" w="1" a="1">
+</p>
+<p t="314360" d="3839" w="1"><s ac="0">actually</s><s t="240" ac="0"> grow</s><s t="640" ac="0"> all</s><s t="760" ac="0"> of</s><s t="880" ac="0"> their</s><s t="1000" ac="0"> own</s></p>
+<p t="315710" d="2489" w="1" a="1">
+</p>
+<p t="315720" d="4520" w="1"><s ac="0">vegetables</s><s t="1000" ac="0"> this</s><s t="1160" ac="0"> was</s><s t="1360" ac="0"> supposed</s><s t="1640" ac="0"> to</s><s t="1759" ac="0"> be</s><s t="2000" ac="0"> very</s></p>
+<p t="318189" d="2051" w="1" a="1">
+</p>
+<p t="318199" d="4521" w="1"><s ac="0">educational</s><s t="1000" ac="0"> but</s><s t="1120" ac="0"> I&#39;ll</s><s t="1280" ac="0"> be</s><s t="1401" ac="0"> honest</s><s t="1801" ac="0"> I</s><s t="1881" ac="0"> was</s></p>
+<p t="320230" d="2490" w="1" a="1">
+</p>
+<p t="320240" d="5200" w="1"><s ac="0">focused</s><s t="320" ac="0"> on</s><s t="399" ac="0"> finding</s><s t="640" ac="0"> Mel&#39;s</s><s t="1079" ac="0"> cat</s><s t="1799" ac="0"> nothing</s><s t="2160" ac="0"> so</s></p>
+<p t="322710" d="2730" w="1" a="1">
+</p>
+<p t="322720" d="6280" w="1"><s ac="0">far</s><s t="720" ac="0"> pretty</s><s t="960" ac="0"> sure</s><s t="1160" ac="0"> that&#39;s</s><s t="1360" ac="0"> not</s><s t="1479" ac="0"> a</s><s t="1680" ac="0"> cat</s><s t="2319" ac="0"> nothing</s></p>
+<p t="325430" d="3570" w="1" a="1">
+</p>
+<p t="325440" d="6720" w="1"><s ac="0">in</s><s t="160" ac="0"> the</s><s t="360" ac="0"> distance</s><s t="920" ac="0"> either</s><s t="1879" ac="0"> so</s><s t="2360" ac="0"> far</s><s t="3360" ac="0"> I&#39;m</s><s t="3440" ac="0"> not</s></p>
+<p t="328990" d="3170" w="1" a="1">
+</p>
+<p t="329000" d="5400" w="1"><s ac="0">seeing</s><s t="240" ac="0"> any</s><s t="600" ac="0"> cats</s><s t="1280" ac="0"> there</s><s t="1479" ac="0"> are</s><s t="2000" ac="0"> cute</s><s t="2520" ac="0"> pigs</s></p>
+<p t="332150" d="2250" w="1" a="1">
+</p>
+<p t="332160" d="4159" w="1"><s ac="0">though</s><s t="400" ac="0"> look</s><s t="560" ac="0"> at</s><s t="879" ac="0"> that</s><s t="1599" ac="0"> oh</s><s t="1879" ac="0"> wait</s><s t="2080" ac="0"> I</s><s t="2120" ac="0"> just</s></p>
+<p t="334390" d="1929" w="1" a="1">
+</p>
+<p t="334400" d="4359" w="1"><s ac="0">realized</s><s t="600" ac="0"> are</s><s t="680" ac="0"> we</s><s t="799" ac="0"> going</s><s t="880" ac="0"> to</s><s t="1000" ac="0"> eat</s></p>
+<p t="336309" d="2450" w="1" a="1">
+</p>
+<p t="336319" d="4160" w="1"><s ac="0">them</s><s t="1000" ac="0"> once</s><s t="1281" ac="0"> the</s><s t="1401" ac="0"> tour</s><s t="1600" ac="0"> was</s><s t="1720" ac="0"> over</s><s t="1961" ac="0"> we</s><s t="2081" ac="0"> were</s><s t="2241" ac="0"> led</s></p>
+<p t="338749" d="1730" w="1" a="1">
+</p>
+<p t="338759" d="4241" w="1"><s ac="0">to</s><s t="121" ac="0"> an</s><s t="280" ac="0"> area</s><s t="560" ac="0"> where</s><s t="720" ac="0"> there</s><s t="841" ac="0"> was</s><s t="1000" ac="0"> an</s><s t="1241" ac="0"> army</s><s t="1521" ac="0"> of</s></p>
+<p t="340469" d="2531" w="1" a="1">
+</p>
+<p t="340479" d="6121" w="1"><s ac="0">waiters</s><s t="401" ac="0"> and</s><s t="601" ac="0"> waitresses</s><s t="1280" ac="0"> waiting</s><s t="1560" ac="0"> for</s><s t="1761" ac="0"> us</s></p>
+<p t="342990" d="3610" w="1" a="1">
+</p>
+<p t="343000" d="4880" w="1"><s ac="0">how</s><s t="120" ac="0"> does</s><s t="199" ac="0"> this</s><s t="319" ac="0"> work</s><s t="560" ac="0"> for</s><s t="1600" ac="0"> yes</s><s t="2600" ac="0"> okay</s><s t="3280" ac="0"> okay</s><s t="3520" ac="0"> I</s></p>
+<p t="346590" d="1290" w="1" a="1">
+</p>
+<p t="346600" d="3240" w="1"><s ac="0">know</s><s t="120" ac="0"> it&#39;s</s><s t="280" ac="0"> confusing</s><s t="599" ac="0"> a</s><s t="680" ac="0"> bunch</s><s t="840" ac="0"> of</s><s t="920" ac="0"> people</s></p>
+<p t="347870" d="1970" w="1" a="1">
+</p>
+<p t="347880" d="3800" w="1"><s ac="0">I&#39;m</s></p>
+<p t="349830" d="1850" w="1" a="1">
+</p>
+<p t="349840" d="6199" w="1">[Music]</p>
+<p t="351670" d="4369" w="1" a="1">
+</p>
+<p t="351680" d="5959" w="1"><s ac="0">intimidated</s><s t="1000" ac="0"> so</s><s t="1320" ac="0"> we</s><s t="1480" ac="0"> just</s><s t="1639" ac="0"> got</s><s t="1880" ac="0"> seated</s><s t="2600" ac="0"> and</s><s t="3359" ac="0"> um</s></p>
+<p t="356029" d="1610" w="1" a="1">
+</p>
+<p t="356039" d="4081" w="1"><s ac="0">this</s><s t="160" ac="0"> place</s><s t="321" ac="0"> is</s><s t="481" ac="0"> crazy</s><s t="801" ac="0"> looking</s><s t="1160" ac="0"> the</s><s t="1280" ac="0"> dining</s></p>
+<p t="357629" d="2491" w="1" a="1">
+</p>
+<p t="357639" d="4041" w="1"><s ac="0">area</s><s t="361" ac="0"> was</s><s t="641" ac="0"> massive</s><s t="1120" ac="0"> and</s><s t="1361" ac="0"> very</s><s t="1601" ac="0"> f</s><s t="1881" ac="0"> fancy</s><s t="2361" ac="0"> it</s></p>
+<p t="360110" d="1570" w="1" a="1">
+</p>
+<p t="360120" d="3760" w="1"><s ac="0">used</s><s t="240" ac="0"> to</s><s t="320" ac="0"> be</s><s t="440" ac="0"> an</s><s t="560" ac="0"> old</s><s t="760" ac="0"> dairy</s><s t="1040" ac="0"> barn</s><s t="1320" ac="0"> for</s><s t="1440" ac="0"> the</s></p>
+<p t="361670" d="2210" w="1" a="1">
+</p>
+<p t="361680" d="5639" w="1"><s ac="0">Rockefellers</s><s t="880" ac="0"> who</s><s t="1000" ac="0"> were</s><s t="1160" ac="0"> one</s><s t="1280" ac="0"> of</s><s t="1400" ac="0"> the</s><s t="1600" ac="0"> richest</s></p>
+<p t="363870" d="3449" w="1" a="1">
+</p>
+<p t="363880" d="5319" w="1"><s ac="0">families</s><s t="1000" ac="0"> like</s><s t="1759" ac="0"> ever</s><s t="2719" ac="0"> just</s><s t="2960" ac="0"> like</s><s t="3120" ac="0"> they</s><s t="3200" ac="0"> out</s><s t="3280" ac="0"> of</s></p>
+<p t="367309" d="1890" w="1" a="1">
+</p>
+<p t="367319" d="3880" w="1"><s ac="0">place</s><s t="320" ac="0"> cuz</s><s t="521" ac="0"> I&#39;m</s><s t="681" ac="0"> just</s><s t="801" ac="0"> a</s><s t="921" ac="0"> boy</s><s t="1241" ac="0"> so</s><s t="1401" ac="0"> at</s><s t="1481" ac="0"> a</s><s t="1600" ac="0"> dinner</s></p>
+<p t="369189" d="2010" w="1" a="1">
+</p>
+<p t="369199" d="3840" w="1"><s ac="0">like</s><s t="201" ac="0"> this</s><s t="481" ac="0"> the</s><s t="681" ac="0"> chef</s><s t="1041" ac="0"> decides</s><s t="1681" ac="0"> everything</s></p>
+<p t="371189" d="1850" w="1" a="1">
+</p>
+<p t="371199" d="3840" w="1"><s ac="0">you&#39;re</s><s t="161" ac="0"> going</s><s t="241" ac="0"> to</s><s t="400" ac="0"> eat</s><s t="881" ac="0"> this</s><s t="1041" ac="0"> entire</s><s t="1361" ac="0"> meal</s><s t="1720" ac="0"> is</s></p>
+<p t="373029" d="2010" w="1" a="1">
+</p>
+<p t="373039" d="4160" w="1"><s ac="0">supposed</s><s t="280" ac="0"> to</s><s t="361" ac="0"> be</s><s t="521" ac="0"> 20</s><s t="841" ac="0"> courses</s><s t="1321" ac="0"> so</s><s t="1521" ac="0"> I</s><s t="1600" ac="0"> have</s><s t="1801" ac="0"> no</s></p>
+<p t="375029" d="2170" w="1" a="1">
+</p>
+<p t="375039" d="4681" w="1"><s ac="0">idea</s><s t="241" ac="0"> what</s><s t="401" ac="0"> to</s><s t="600" ac="0"> expect</s><s t="1241" ac="0"> but</s><s t="1440" ac="0"> boy</s><s t="1681" ac="0"> was</s><s t="1921" ac="0"> I</s></p>
+<p t="377189" d="2531" w="1" a="1">
+</p>
+<p t="377199" d="5801" w="1"><s ac="0">surprised</s><s t="521" ac="0"> when</s><s t="720" ac="0"> the</s><s t="961" ac="0"> first</s><s t="1481" ac="0"> dish</s><s t="1801" ac="0"> ended</s><s t="2081" ac="0"> up</s></p>
+<p t="379710" d="3290" w="1" a="1">
+</p>
+<p t="379720" d="6520" w="1"><s ac="0">being</s><s t="1000" ac="0"> straight</s><s t="1319" ac="0"> up</s><s t="1640" ac="0"> raw</s><s t="2000" ac="0"> vegetables</s><s t="3000" ac="0"> do</s><s t="3120" ac="0"> I</s></p>
+<p t="382990" d="3250" w="1" a="1">
+</p>
+<p t="383000" d="5560" w="1"><s ac="0">dip</s><s t="240" ac="0"> this</s><s t="599" ac="0"> I</s><s t="639" ac="0"> don&#39;t</s><s t="800" ac="0"> know</s><s t="1120" ac="0"> I</s><s t="1199" ac="0"> feel</s><s t="1680" ac="0"> so</s><s t="2039" ac="0"> lost</s><s t="3039" ac="0"> now</s></p>
+<p t="386230" d="2330" w="1" a="1">
+</p>
+<p t="386240" d="4440" w="1"><s ac="0">look</s><s t="320" ac="0"> I</s><s t="399" ac="0"> don&#39;t</s><s t="640" ac="0"> hate</s><s t="880" ac="0"> vegetables</s><s t="1840" ac="0"> but</s><s t="2040" ac="0"> this</s><s t="2160" ac="0"> is</s></p>
+<p t="388550" d="2130" w="1" a="1">
+</p>
+<p t="388560" d="5320" w="1"><s ac="0">not</s><s t="240" ac="0"> what</s><s t="359" ac="0"> I</s><s t="479" ac="0"> expect</s><s t="1079" ac="0"> to</s><s t="1199" ac="0"> pay</s><s t="1479" ac="0"> a</s><s t="1600" ac="0"> lot</s><s t="1759" ac="0"> of</s><s t="1880" ac="0"> money</s></p>
+<p t="390670" d="3210" w="1" a="1">
+</p>
+<p t="390680" d="5280" w="1"><s ac="0">for</s><s t="840" ac="0"> this</s><s t="959" ac="0"> is</s><s t="1160" ac="0"> not</s><s t="1400" ac="0"> off</s><s t="1560" ac="0"> to</s><s t="1720" ac="0"> the</s><s t="1880" ac="0"> best</s><s t="2200" ac="0"> start</s></p>
+<p t="393870" d="2090" w="1" a="1">
+</p>
+<p t="393880" d="5240" w="1"><s ac="0">but</s><s t="159" ac="0"> it&#39;s</s><s t="400" ac="0"> fine</s><s t="920" ac="0"> let&#39;s</s><s t="1200" ac="0"> check</s><s t="1360" ac="0"> out</s><s t="1640" ac="0"> the</s><s t="1800" ac="0"> next</s></p>
+<p t="395950" d="3170" w="1" a="1">
+</p>
+<p t="395960" d="5400" w="1"><s ac="0">review</s><s t="400" ac="0"> from</s><s t="600" ac="0"> Nicole</s><s t="1120" ac="0"> s</s><s t="2120" ac="0"> okay</s><s t="2480" ac="0"> starting</s><s t="2840" ac="0"> off</s></p>
+<p t="399110" d="2250" w="1" a="1">
+</p>
+<p t="399120" d="4560" w="1"><s ac="0">the</s><s t="160" ac="0"> concept</s><s t="680" ac="0"> is</s><s t="880" ac="0"> good</s><s t="1320" ac="0"> the</s><s t="1440" ac="0"> weight</s><s t="1720" ac="0"> staff</s><s t="2079" ac="0"> is</s></p>
+<p t="401350" d="2330" w="1" a="1">
+</p>
+<p t="401360" d="4200" w="1"><s ac="0">admittedly</s><s t="679" ac="0"> impeccable</s><s t="1279" ac="0"> and</s><s t="1440" ac="0"> the</s><s t="1559" ac="0"> service</s><s t="2000" ac="0"> is</s></p>
+<p t="403670" d="1890" w="1" a="1">
+</p>
+<p t="403680" d="5440" w="1"><s ac="0">absolutely</s><s t="560" ac="0"> designed</s><s t="1000" ac="0"> to</s><s t="1160" ac="0"> be</s><s t="1320" ac="0"> catered</s><s t="1760" ac="0"> to</s></p>
+<p t="405550" d="3570" w="1" a="1">
+</p>
+<p t="405560" d="5359" w="1"><s ac="0">your</s><s t="320" ac="0"> every</s><s t="720" ac="0"> need</s><s t="1720" ac="0"> however</s><s t="2359" ac="0"> all</s><s t="2520" ac="0"> of</s><s t="2759" ac="0"> this</s><s t="3120" ac="0"> is</s><s t="3359" ac="0"> a</s></p>
+<p t="409110" d="1809" w="1" a="1">
+</p>
+<p t="409120" d="4000" w="1"><s ac="0">little</s><s t="479" ac="0"> overwhelming</s><s t="1160" ac="0"> the</s><s t="1280" ac="0"> weight</s><s t="1519" ac="0"> staff</s></p>
+<p t="410909" d="2211" w="1" a="1">
+</p>
+<p t="410919" d="4321" w="1"><s ac="0">moves</s><s t="321" ac="0"> in</s><s t="560" ac="0"> complete</s><s t="921" ac="0"> Unison</s><s t="1680" ac="0"> and</s><s t="1840" ac="0"> I&#39;m</s><s t="2000" ac="0"> not</s></p>
+<p t="413110" d="2130" w="1" a="1">
+</p>
+<p t="413120" d="5799" w="1"><s ac="0">exaggerating</s><s t="799" ac="0"> it&#39;s</s><s t="1040" ac="0"> honestly</s><s t="1639" ac="0"> kind</s><s t="1799" ac="0"> of</s></p>
+<p t="415230" d="3689" w="1" a="1">
+</p>
+<p t="415240" d="5840" w="1"><s ac="0">creepy</s><s t="519" ac="0"> and</s><s t="799" ac="0"> cult</s><s t="1320" ac="0"> likee</s><s t="1840" ac="0"> one</s><s t="2160" ac="0"> star</s><s t="2720" ac="0"> for</s><s t="3000" ac="0"> this</s></p>
+<p t="418909" d="2171" w="1" a="1">
+</p>
+<p t="418919" d="4041" w="1"><s ac="0">I&#39;m</s><s t="120" ac="0"> just</s><s t="521" ac="0"> going</s><s t="641" ac="0"> to</s><s t="720" ac="0"> be</s><s t="881" ac="0"> observing</s><s t="1720" ac="0"> everyone</s></p>
+<p t="421070" d="1890" w="1" a="1">
+</p>
+<p t="421080" d="3000" w="1"><s ac="0">all</s><s t="160" ac="0"> of</s><s t="280" ac="0"> the</s><s t="360" ac="0"> white</s><s t="559" ac="0"> stuff</s><s t="760" ac="0"> in</s><s t="839" ac="0"> the</s><s t="920" ac="0"> restaurant</s></p>
+<p t="422950" d="1130" w="1" a="1">
+</p>
+<p t="422960" d="3760" w="1"><s ac="0">I&#39;ll</s><s t="160" ac="0"> let</s><s t="239" ac="0"> you</s><s t="359" ac="0"> know</s><s t="480" ac="0"> what</s><s t="560" ac="0"> I</s><s t="679" ac="0"> think</s><s t="959" ac="0"> the</s></p>
+<p t="424070" d="2650" w="1" a="1">
+</p>
+<p t="424080" d="6600" w="1"><s ac="0">review</s><s t="320" ac="0"> seemed</s><s t="839" ac="0"> very</s><s t="1280" ac="0"> exaggerated</s><s t="1959" ac="0"> at</s><s t="2119" ac="0"> first</s></p>
+<p t="426710" d="3970" w="1" a="1">
+</p>
+<p t="426720" d="3960" w="1"><s ac="0">but</s><s t="360" ac="0"> after</s><s t="840" ac="0"> watching</s><s t="1240" ac="0"> for</s><s t="1479" ac="0"> a</s><s t="1640" ac="0"> little</s></p>
+<p t="432150" w="1" a="1">
+</p>
+<p t="432160" d="4759" w="1"><s ac="0">while</s><s t="1000" ac="0"> I</s><s t="1080" ac="0"> know</s><s t="1319" ac="0"> it&#39;s</s><s t="1479" ac="0"> not</s><s t="1719" ac="0"> just</s><s t="1960" ac="0"> me</s><s t="2960" ac="0"> things</s></p>
+<p t="435430" d="1489" w="1" a="1">
+</p>
+<p t="435440" d="4599" w="1"><s ac="0">feel</s><s t="280" ac="0"> a</s><s t="400" ac="0"> little</s></p>
+<p t="436909" d="3130" w="1" a="1">
+</p>
+<p t="436919" d="5960" w="1"><s ac="0">weird</s><s t="1000" ac="0"> I</s><s t="1081" ac="0"> mean</s><s t="1280" ac="0"> look</s><s t="1400" ac="0"> at</s><s t="1601" ac="0"> this</s><s t="1720" ac="0"> dude&#39;s</s><s t="2201" ac="0"> posture</s></p>
+<p t="440029" d="2850" w="1" a="1">
+</p>
+<p t="440039" d="5121" w="1"><s ac="0">it&#39;s</s><s t="720" ac="0"> perfect</s><s t="1720" ac="0"> while</s><s t="1880" ac="0"> I</s><s t="2000" ac="0"> was</s><s t="2201" ac="0"> people</s><s t="2481" ac="0"> watching</s></p>
+<p t="442869" d="2291" w="1" a="1">
+</p>
+<p t="442879" d="3880" w="1"><s ac="0">a</s><s t="121" ac="0"> few</s><s t="361" ac="0"> other</s><s t="641" ac="0"> courses</s><s t="1081" ac="0"> came</s><s t="1241" ac="0"> out</s><s t="1921" ac="0"> along</s><s t="2121" ac="0"> with</s></p>
+<p t="445150" d="1609" w="1" a="1">
+</p>
+<p t="445160" d="3599" w="1"><s ac="0">this</s><s t="159" ac="0"> dude</s><s t="400" ac="0"> that</s><s t="520" ac="0"> sliced</s><s t="800" ac="0"> shuder</s><s t="1360" ac="0"> at</s><s t="1479" ac="0"> the</s></p>
+<p t="446749" d="2010" w="1" a="1">
+</p>
+<p t="446759" d="4081" w="1"><s ac="0">table</s><s t="521" ac="0"> that</s><s t="641" ac="0"> was</s><s t="801" ac="0"> pretty</s><s t="1000" ac="0"> cool</s><s t="1440" ac="0"> also</s><s t="1681" ac="0"> got</s><s t="1840" ac="0"> this</s></p>
+<p t="448749" d="2091" w="1" a="1">
+</p>
+<p t="448759" d="4401" w="1"><s ac="0">interesting</s><s t="601" ac="0"> rainbow</s><s t="961" ac="0"> trout</s><s t="1241" ac="0"> and</s><s t="1440" ac="0"> swordfish</s></p>
+<p t="450830" d="2330" w="1" a="1">
+</p>
+<p t="450840" d="4440" w="1"><s ac="0">pastrami</s><s t="560" ac="0"> dish</s><s t="1160" ac="0"> my</s><s t="1320" ac="0"> girlfriend</s><s t="1680" ac="0"> had</s><s t="1759" ac="0"> a</s><s t="1919" ac="0"> pretty</s></p>
+<p t="453150" d="2130" w="1" a="1">
+</p>
+<p t="453160" d="5560" w="1"><s ac="0">accurate</s><s t="400" ac="0"> description</s><s t="840" ac="0"> for</s><s t="1039" ac="0"> this</s><s t="1560" ac="0"> it</s><s t="1719" ac="0"> tastes</s></p>
+<p t="455270" d="3450" w="1" a="1">
+</p>
+<p t="455280" d="7479" w="1"><s ac="0">the</s><s t="160" ac="0"> way</s><s t="639" ac="0"> that</s><s t="840" ac="0"> leather</s><s t="1680" ac="0"> smells</s><s t="2680" ac="0"> is</s><s t="2840" ac="0"> that</s><s t="3120" ac="0"> good</s></p>
+<p t="458710" d="4049" w="1" a="1">
+</p>
+<p t="458720" d="4759" w="1"><s ac="0">or</s><s t="640" ac="0"> very</s><s t="1120" ac="0"> good</s><s t="1280" ac="0"> for</s><s t="1800" ac="0"> me</s><s t="2800" ac="0"> I</s><s t="2919" ac="0"> like</s><s t="3120" ac="0"> it</s><s t="3280" ac="0"> too</s><s t="3640" ac="0"> so</s><s t="3960" ac="0"> I</s></p>
+<p t="462749" d="730" w="1" a="1">
+</p>
+<p t="462759" d="3560" w="1"><s ac="0">don&#39;t</s></p>
+<p t="463469" d="2850" w="1" a="1">
+</p>
+<p t="463479" d="5521" w="1"><s ac="0">know</s><s t="1000" ac="0"> then</s><s t="1280" ac="0"> a</s><s t="1400" ac="0"> few</s><s t="1601" ac="0"> moments</s><s t="2041" ac="0"> later</s><s t="2680" ac="0"> they</s></p>
+<p t="466309" d="2691" w="1" a="1">
+</p>
+<p t="466319" d="4201" w="1"><s ac="0">brought</s><s t="201" ac="0"> a</s><s t="361" ac="0"> dish</s><s t="681" ac="0"> called</s><s t="1361" ac="0"> face</s><s t="1720" ac="0"> bacon</s><s t="2560" ac="0"> I&#39;m</s></p>
+<p t="468990" d="1530" w="1" a="1">
+</p>
+<p t="469000" d="3560" w="1"><s ac="0">going</s><s t="120" ac="0"> to</s><s t="199" ac="0"> blur</s><s t="440" ac="0"> this</s><s t="560" ac="0"> for</s><s t="759" ac="0"> yall</s><s t="1240" ac="0"> it</s><s t="1319" ac="0"> was</s></p>
+<p t="470510" d="2050" w="1" a="1">
+</p>
+<p t="470520" d="4160" w="1"><s ac="0">basically</s><s t="399" ac="0"> pork</s><s t="639" ac="0"> rinds</s><s t="1079" ac="0"> except</s><s t="1359" ac="0"> served</s><s t="1720" ac="0"> on</s><s t="1840" ac="0"> a</s></p>
+<p t="472550" d="2130" w="1" a="1">
+</p>
+<p t="472560" d="3919" w="1"><s ac="0">pig</s><s t="240" ac="0"> skull</s><s t="840" ac="0"> the</s><s t="960" ac="0"> pork</s><s t="1160" ac="0"> rindes</s><s t="1479" ac="0"> didn&#39;t</s><s t="1759" ac="0"> taste</s></p>
+<p t="474670" d="1809" w="1" a="1">
+</p>
+<p t="474680" d="3320" w="1"><s ac="0">bad</s><s t="359" ac="0"> but</s><s t="600" ac="0"> while</s><s t="760" ac="0"> I</s><s t="840" ac="0"> was</s><s t="959" ac="0"> eating</s><s t="1239" ac="0"> it</s><s t="1519" ac="0"> all</s><s t="1680" ac="0"> I</s></p>
+<p t="476469" d="1531" w="1" a="1">
+</p>
+<p t="476479" d="3801" w="1"><s ac="0">could</s><s t="160" ac="0"> think</s><s t="361" ac="0"> about</s><s t="840" ac="0"> were</s><s t="1081" ac="0"> the</s><s t="1241" ac="0"> little</s></p>
+<p t="477990" d="2290" w="1" a="1">
+</p>
+<p t="478000" d="3639" w="1"><s ac="0">piggies</s><s t="879" ac="0"> and</s><s t="1000" ac="0"> to</s><s t="1120" ac="0"> make</s><s t="1400" ac="0"> it</s><s t="1479" ac="0"> even</s><s t="1639" ac="0"> weirder</s><s t="2120" ac="0"> you</s></p>
+<p t="480270" d="1369" w="1" a="1">
+</p>
+<p t="480280" d="3440" w="1"><s ac="0">are</s><s t="280" ac="0"> not</s><s t="520" ac="0"> going</s><s t="639" ac="0"> to</s><s t="800" ac="0"> believe</s><s t="1120" ac="0"> what</s><s t="1240" ac="0"> they</s></p>
+<p t="481629" d="2091" w="1" a="1">
+</p>
+<p t="481639" d="4041" w="1"><s ac="0">brought</s><s t="201" ac="0"> out</s><s t="400" ac="0"> next</s><s t="1041" ac="0"> this</s><s t="1161" ac="0"> is</s><s t="1361" ac="0"> pheasant</s><s t="1960" ac="0"> which</s></p>
+<p t="483710" d="1970" w="1" a="1">
+</p>
+<p t="483720" d="3840" w="1"><s ac="0">is</s><s t="80" ac="0"> a</s><s t="240" ac="0"> type</s><s t="400" ac="0"> of</s><s t="560" ac="0"> game</s><s t="840" ac="0"> bird</s><s t="1400" ac="0"> it&#39;s</s><s t="1560" ac="0"> supposed</s><s t="1840" ac="0"> to</s></p>
+<p t="485670" d="1890" w="1" a="1">
+</p>
+<p t="485680" d="4359" w="1"><s ac="0">be</s><s t="199" ac="0"> really</s><s t="440" ac="0"> tasty</s><s t="880" ac="0"> and</s><s t="1000" ac="0"> I</s><s t="1120" ac="0"> was</s><s t="1280" ac="0"> very</s><s t="1479" ac="0"> excited</s></p>
+<p t="487550" d="2489" w="1" a="1">
+</p>
+<p t="487560" d="4840" w="1"><s ac="0">to</s><s t="120" ac="0"> try</s><s t="359" ac="0"> it</s><s t="680" ac="0"> until</s><s t="1199" ac="0"> they</s><s t="1359" ac="0"> brought</s><s t="1599" ac="0"> out</s><s t="2120" ac="0"> a</s><s t="2240" ac="0"> dead</s></p>
+<p t="490029" d="2371" w="1" a="1">
+</p>
+<p t="490039" d="5560" w="1"><s ac="0">bird</s><s t="481" ac="0"> yeah</s><s t="600" ac="0"> a</s><s t="720" ac="0"> dead</s><s t="961" ac="0"> bird</s><s t="1321" ac="0"> right</s><s t="1921" ac="0"> so</s><s t="2081" ac="0"> these</s><s t="2201" ac="0"> are</s></p>
+<p t="492390" d="3209" w="1" a="1">
+</p>
+<p t="492400" d="8440" w="1"><s ac="0">the</s><s t="160" ac="0"> feathers</s><s t="840" ac="0"> I</s><s t="1000" ac="0"> wish</s><s t="1519" ac="0"> I</s><s t="1639" ac="0"> was</s><s t="1840" ac="0"> making</s><s t="2199" ac="0"> this</s><s t="2359" ac="0"> up</s></p>
+<p t="495589" d="5251" w="1" a="1">
+</p>
+<p t="495599" d="6720" w="1"><s ac="0">how</s><s t="320" ac="0"> do</s><s t="521" ac="0"> you</s><s t="1121" ac="0"> feel</s><s t="2121" ac="0"> about</s><s t="3121" ac="0"> now</s><s t="4121" ac="0"> eating</s><s t="5121" ac="0"> the</s></p>
+<p t="500830" d="1489" w="1" a="1">
+</p>
+<p t="500840" d="5799" w="1"><s ac="0">bird</s><s t="359" ac="0"> after</s><s t="560" ac="0"> seeing</s></p>
+<p t="502309" d="4330" w="1" a="1">
+</p>
+<p t="502319" d="6481" w="1"><s ac="0">that</s><s t="1000" ac="0"> I</s><s t="1201" ac="0"> kind</s><s t="1320" ac="0"> of</s><s t="1440" ac="0"> feel</s><s t="1801" ac="0"> guilty</s><s t="2720" ac="0"> but</s><s t="3201" ac="0"> also</s><s t="4201" ac="0"> it</s></p>
+<p t="506629" d="2171" w="1" a="1">
+</p>
+<p t="506639" d="5240" w="1"><s ac="0">was</s><s t="161" ac="0"> already</s><s t="481" ac="0"> dead</s><s t="1120" ac="0"> so</s><s t="1641" ac="0"> I</s><s t="1721" ac="0"> think</s><s t="1921" ac="0"> I&#39;d</s><s t="2041" ac="0"> feel</s></p>
+<p t="508790" d="3089" w="1" a="1">
+</p>
+<p t="508800" d="4760" w="1"><s ac="0">more</s><s t="200" ac="0"> guilty</s><s t="760" ac="0"> if</s><s t="920" ac="0"> I</s><s t="1119" ac="0"> didn&#39;t</s><s t="1480" ac="0"> eat</s><s t="1760" ac="0"> it</s><s t="2760" ac="0"> yeah</s><s t="2880" ac="0"> I&#39;m</s></p>
+<p t="511869" d="1691" w="1" a="1">
+</p>
+<p t="511879" d="3960" w="1"><s ac="0">okay</s><s t="201" ac="0"> eating</s><s t="481" ac="0"> it</s><s t="960" ac="0"> but</s><s t="1121" ac="0"> despite</s><s t="1481" ac="0"> the</s></p>
+<p t="513550" d="2289" w="1" a="1">
+</p>
+<p t="513560" d="5120" w="1"><s ac="0">interesting</s><s t="440" ac="0"> food</s><s t="719" ac="0"> choices</s><s t="1240" ac="0"> I</s><s t="1359" ac="0"> will</s><s t="1599" ac="0"> say</s><s t="2120" ac="0"> the</s></p>
+<p t="515829" d="2851" w="1" a="1">
+</p>
+<p t="515839" d="5401" w="1"><s ac="0">service</s><s t="521" ac="0"> has</s><s t="680" ac="0"> been</s><s t="1401" ac="0"> literally</s></p>
+<p t="518670" d="2570" w="1" a="1">
+</p>
+<p t="518680" d="4880" w="1"><s ac="0">perfect</s><s t="1000" ac="0"> almost</s><s t="1359" ac="0"> too</s><s t="1719" ac="0"> perfect</s><s t="2159" ac="0"> though</s></p>
+<p t="521230" d="2330" w="1" a="1">
+</p>
+<p t="521240" d="4400" w="1"><s ac="0">Nicole&#39;s</s><s t="479" ac="0"> review</s><s t="799" ac="0"> was</s><s t="1000" ac="0"> spoton</s><s t="1719" ac="0"> the</s><s t="1880" ac="0"> staff</s><s t="2159" ac="0"> was</s></p>
+<p t="523550" d="2090" w="1" a="1">
+</p>
+<p t="523560" d="4120" w="1"><s ac="0">impeccable</s><s t="719" ac="0"> but</s><s t="959" ac="0"> every</s><s t="1160" ac="0"> single</s><s t="1440" ac="0"> interaction</s></p>
+<p t="525630" d="2050" w="1" a="1">
+</p>
+<p t="525640" d="3840" w="1"><s ac="0">felt</s><s t="319" ac="0"> rehearsed</s><s t="1160" ac="0"> kind</s><s t="1280" ac="0"> of</s><s t="1400" ac="0"> like</s><s t="1600" ac="0"> talking</s><s t="1879" ac="0"> to</s></p>
+<p t="527670" d="1810" w="1" a="1">
+</p>
+<p t="527680" d="6360" w="1"><s ac="0">an</s><s t="120" ac="0"> NPC</s><s t="599" ac="0"> in</s><s t="719" ac="0"> a</s><s t="880" ac="0"> video</s><s t="1159" ac="0"> game</s><s t="1400" ac="0"> if</s><s t="1480" ac="0"> you</s><s t="1560" ac="0"> know</s><s t="1680" ac="0"> what</s></p>
+<p t="529470" d="4570" w="1" a="1">
+</p>
+<p t="529480" d="7160" w="1"><s ac="0">I</s><s t="80" ac="0"> mean</s><s t="600" ac="0"> would</s><s t="840" ac="0"> you</s><s t="1560" ac="0"> say</s><s t="1840" ac="0"> it</s><s t="1960" ac="0"> is</s><s t="2120" ac="0"> slightly</s><s t="2440" ac="0"> cult</s></p>
+<p t="534030" d="2610" w="1" a="1">
+</p>
+<p t="534040" d="4160" w="1"><s ac="0">like</s><s t="1000" ac="0"> honestly</s><s t="1600" ac="0"> yeah</s><s t="1760" ac="0"> it</s><s t="1880" ac="0"> does</s><s t="2160" ac="0"> kind</s><s t="2239" ac="0"> of</s><s t="2400" ac="0"> give</s></p>
+<p t="536630" d="1570" w="1" a="1">
+</p>
+<p t="536640" d="3879" w="1"><s ac="0">that</s><s t="240" ac="0"> Vibe</s><s t="480" ac="0"> they&#39;re</s><s t="639" ac="0"> a</s><s t="759" ac="0"> little</s></p>
+<p t="538190" d="2329" w="1" a="1">
+</p>
+<p t="538200" d="3920" w="1"><s ac="0">sneaky</s></p>
+<p t="540509" d="1611" w="1" a="1">
+</p>
+<p t="540519" d="3961" w="1"><s ac="0">so</s><s t="161" ac="0"> dinner&#39;s</s><s t="521" ac="0"> wrapping</s><s t="841" ac="0"> up</s><s t="1081" ac="0"> we</s><s t="1241" ac="0"> just</s><s t="1401" ac="0"> had</s></p>
+<p t="542110" d="2370" w="1" a="1">
+</p>
+<p t="542120" d="5279" w="1"><s ac="0">dessert</s><s t="1000" ac="0"> the</s><s t="1159" ac="0"> thing</s></p>
+<p t="544470" d="2929" w="1" a="1">
+</p>
+<p t="544480" d="5080" w="1"><s ac="0">is</s><s t="1000" ac="0"> now</s><s t="1320" ac="0"> I</s><s t="1440" ac="0"> don&#39;t</s><s t="1680" ac="0"> know</s><s t="1919" ac="0"> what</s><s t="2039" ac="0"> to</s><s t="2320" ac="0"> expect</s><s t="2799" ac="0"> out</s></p>
+<p t="547389" d="2171" w="1" a="1">
+</p>
+<p t="547399" d="4841" w="1"><s ac="0">of</s><s t="161" ac="0"> the</s><s t="281" ac="0"> three</s><s t="560" ac="0"> star</s><s t="801" ac="0"> Michelin</s><s t="1241" ac="0"> restaurant</s></p>
+<p t="549550" d="2690" w="1" a="1">
+</p>
+<p t="549560" d="5279" w="1"><s ac="0">the</s><s t="80" ac="0"> bill</s><s t="279" ac="0"> ended</s><s t="519" ac="0"> up</s><s t="640" ac="0"> being</s></p>
+<p t="552230" d="2609" w="1" a="1">
+</p>
+<p t="552240" d="4719" w="1"><s ac="0">$1,524</s><s t="1000" ac="0"> and</s><s t="1200" ac="0"> while</s><s t="1480" ac="0"> there</s><s t="1640" ac="0"> were</s><s t="2039" ac="0"> some</s><s t="2279" ac="0"> dishes</s></p>
+<p t="554829" d="2130" w="1" a="1">
+</p>
+<p t="554839" d="4521" w="1"><s ac="0">I</s><s t="201" ac="0"> enjoyed</s><s t="1041" ac="0"> I</s><s t="1120" ac="0"> feel</s><s t="1281" ac="0"> like</s><s t="1440" ac="0"> spending</s><s t="1801" ac="0"> this</s><s t="1961" ac="0"> much</s></p>
+<p t="556949" d="2411" w="1" a="1">
+</p>
+<p t="556959" d="4961" w="1"><s ac="0">money</s><s t="241" ac="0"> on</s><s t="440" ac="0"> mostly</s><s t="801" ac="0"> vegetables</s><s t="1440" ac="0"> and</s><s t="1601" ac="0"> a</s><s t="2000" ac="0"> kind</s><s t="2161" ac="0"> of</s></p>
+<p t="559350" d="2570" w="1" a="1">
+</p>
+<p t="559360" d="4640" w="1"><s ac="0">uncomfortable</s><s t="719" ac="0"> experience</s><s t="1479" ac="0"> was</s><s t="1680" ac="0"> not</s><s t="2000" ac="0"> my</s><s t="2280" ac="0"> best</s></p>
+<p t="561910" d="2090" w="1" a="1">
+</p>
+<p t="561920" d="4280" w="1"><s ac="0">financial</s><s t="520" ac="0"> decision</s><s t="1320" ac="0"> Goodbye</s><s t="1640" ac="0"> Blue</s><s t="1840" ac="0"> Hill</s></p>
+<p t="563990" d="2210" w="1" a="1">
+</p>
+<p t="564000" d="2200" w="1"><s ac="0">Stone</s></p>
+<p t="567069" w="1" a="1">
+</p>
+<p t="567079" d="6880" w="1"><s ac="0">Barnes</s><s t="1000" ac="0"> ooh</s><s t="1561" ac="0"> it&#39;s</s><s t="1681" ac="0"> cold</s><s t="1921" ac="0"> and</s><s t="2161" ac="0"> San</s><s t="2521" ac="0"> Francisco</s></p>
+<p t="570590" d="3369" w="1" a="1">
+</p>
+<p t="570600" d="5440" w="1"><s ac="0">uh</s><s t="160" ac="0"> for</s><s t="320" ac="0"> Dylan</s><s t="1000" ac="0"> yeah</s><s t="1679" ac="0"> perfect</s><s t="2679" ac="0"> so</s><s t="2880" ac="0"> this</s><s t="3080" ac="0"> next</s></p>
+<p t="573949" d="2091" w="1" a="1">
+</p>
+<p t="573959" d="4521" w="1"><s ac="0">restaurant</s><s t="481" ac="0"> is</s><s t="601" ac="0"> a</s><s t="801" ac="0"> pretty</s><s t="1041" ac="0"> big</s><s t="1241" ac="0"> deal</s><s t="1761" ac="0"> it</s><s t="1880" ac="0"> was</s></p>
+<p t="576030" d="2450" w="1" a="1">
+</p>
+<p t="576040" d="4239" w="1"><s ac="0">once</s><s t="200" ac="0"> ranked</s><s t="640" ac="0"> the</s><s t="799" ac="0"> 28th</s><s t="1560" ac="0"> best</s><s t="1799" ac="0"> restaurant</s><s t="2280" ac="0"> in</s></p>
+<p t="578470" d="1809" w="1" a="1">
+</p>
+<p t="578480" d="4080" w="1"><s ac="0">the</s><s t="160" ac="0"> entire</s><s t="520" ac="0"> world</s><s t="1039" ac="0"> but</s><s t="1200" ac="0"> after</s><s t="1440" ac="0"> that</s><s t="1599" ac="0"> last</s></p>
+<p t="580269" d="2291" w="1" a="1">
+</p>
+<p t="580279" d="3881" w="1"><s ac="0">restaurant</s><s t="601" ac="0"> I</s><s t="721" ac="0"> have</s><s t="961" ac="0"> no</s><s t="1201" ac="0"> idea</s><s t="1800" ac="0"> if</s><s t="1961" ac="0"> I</s><s t="2041" ac="0"> should</s></p>
+<p t="582550" d="1610" w="1" a="1">
+</p>
+<p t="582560" d="2680" w="1"><s ac="0">expect</s><s t="360" ac="0"> good</s><s t="519" ac="0"> things</s><s t="880" ac="0"> thank</s><s t="1040" ac="0"> you</s><s t="1200" ac="0"> too</s><s t="1440" ac="0"> have</s><s t="1519" ac="0"> a</s></p>
+<p t="584150" d="1090" w="1" a="1">
+</p>
+<p t="584160" d="4840" w="1"><s ac="0">good</s></p>
+<p t="585230" d="3770" w="1" a="1">
+</p>
+<p t="585240" d="7279" w="1"><s ac="0">night</s><s t="1000" ac="0"> all</s><s t="1159" ac="0"> right</s><s t="1360" ac="0"> we</s><s t="1480" ac="0"> made</s><s t="2000" ac="0"> it</s><s t="3000" ac="0"> wait</s><s t="3400" ac="0"> hold</s><s t="3560" ac="0"> on</s></p>
+<p t="588990" d="3529" w="1" a="1">
+</p>
+<p t="589000" d="6200" w="1"><s ac="0">my</s><s t="120" ac="0"> brightness</s><s t="480" ac="0"> is</s><s t="920" ac="0"> low</s><s t="1920" ac="0"> there</s><s t="2079" ac="0"> it</s><s t="2240" ac="0"> is</s><s t="3160" ac="0"> holy</s></p>
+<p t="592509" d="2691" w="1" a="1">
+</p>
+<p t="592519" d="4921" w="1"><s ac="0">cow</s><s t="320" ac="0"> I</s><s t="401" ac="0"> can&#39;t</s><s t="641" ac="0"> believe</s><s t="841" ac="0"> we&#39;re</s><s t="1320" ac="0"> here</s><s t="2320" ac="0"> welcome</s></p>
+<p t="595190" d="2250" w="1" a="1">
+</p>
+<p t="595200" d="4120" w="1"><s ac="0">to</s><s t="240" ac="0"> benu</s><s t="840" ac="0"> it&#39;s</s><s t="960" ac="0"> a</s><s t="1120" ac="0"> three</s><s t="1360" ac="0"> Michelin</s><s t="1840" ac="0"> star</s></p>
+<p t="597430" d="1890" w="1" a="1">
+</p>
+<p t="597440" d="4160" w="1"><s ac="0">contemporary</s><s t="680" ac="0"> restaurant</s><s t="1120" ac="0"> focused</s><s t="1480" ac="0"> on</s><s t="1680" ac="0"> on</s></p>
+<p t="599310" d="2290" w="1" a="1">
+</p>
+<p t="599320" d="4759" w="1"><s ac="0">Asian</s><s t="360" ac="0"> Cuisine</s><s t="1120" ac="0"> it&#39;s</s><s t="1280" ac="0"> run</s><s t="1519" ac="0"> by</s><s t="1680" ac="0"> world-renowned</s></p>
+<p t="601590" d="2489" w="1" a="1">
+</p>
+<p t="601600" d="5479" w="1"><s ac="0">Chef</s><s t="320" ac="0"> Cory</s><s t="600" ac="0"> Lee</s><s t="1040" ac="0"> and</s><s t="1160" ac="0"> you</s><s t="1359" ac="0"> guessed</s><s t="1600" ac="0"> it</s><s t="2080" ac="0"> it</s><s t="2239" ac="0"> has</s></p>
+<p t="604069" d="3010" w="1" a="1">
+</p>
+<p t="604079" d="4241" w="1"><s ac="0">four</s><s t="401" ac="0"> doll</s><s t="721" ac="0"> signs</s><s t="1241" ac="0"> on</s><s t="1521" ac="0"> Google</s><s t="2440" ac="0"> but</s><s t="2601" ac="0"> despite</s></p>
+<p t="607069" d="1251" w="1" a="1">
+</p>
+<p t="607079" d="4000" w="1"><s ac="0">being</s><s t="161" ac="0"> one</s><s t="241" ac="0"> of</s><s t="361" ac="0"> the</s><s t="440" ac="0"> best</s><s t="641" ac="0"> restaurants</s><s t="1081" ac="0"> in</s><s t="1161" ac="0"> the</s></p>
+<p t="608310" d="2769" w="1" a="1">
+</p>
+<p t="608320" d="5199" w="1"><s ac="0">world</s><s t="480" ac="0"> the</s><s t="680" ac="0"> reviews</s><s t="1280" ac="0"> are</s><s t="1680" ac="0"> pretty</s><s t="2079" ac="0"> harsh</s></p>
+<p t="611069" d="2450" w="1" a="1">
+</p>
+<p t="611079" d="4921" w="1"><s ac="0">kiyoka</s><s t="401" ac="0"> H</s><s t="641" ac="0"> says</s><s t="1241" ac="0"> the</s><s t="1401" ac="0"> seasoning</s><s t="2000" ac="0"> was</s><s t="2200" ac="0"> not</s></p>
+<p t="613509" d="2491" w="1" a="1">
+</p>
+<p t="613519" d="4601" w="1"><s ac="0">delicious</s><s t="641" ac="0"> the</s><s t="801" ac="0"> table</s><s t="1081" ac="0"> attendant</s><s t="1721" ac="0"> repeatedly</s></p>
+<p t="615990" d="2130" w="1" a="1">
+</p>
+<p t="616000" d="5040" w="1"><s ac="0">took</s><s t="240" ac="0"> the</s><s t="360" ac="0"> food</s><s t="720" ac="0"> in</s><s t="839" ac="0"> the</s><s t="959" ac="0"> middle</s><s t="1240" ac="0"> of</s><s t="1399" ac="0"> eating</s></p>
+<p t="618110" d="2930" w="1" a="1">
+</p>
+<p t="618120" d="5159" w="1"><s ac="0">one</s><s t="320" ac="0"> star</s><s t="959" ac="0"> or</s><s t="1200" ac="0"> this</s><s t="1320" ac="0"> one</s><s t="1560" ac="0"> from</s><s t="1800" ac="0"> ranting</s><s t="2360" ac="0"> ya</s><s t="2800" ac="0"> the</s></p>
+<p t="621030" d="2249" w="1" a="1">
+</p>
+<p t="621040" d="5400" w="1"><s ac="0">food</s><s t="359" ac="0"> was</s><s t="640" ac="0"> creative</s><s t="1239" ac="0"> but</s><s t="1400" ac="0"> not</s><s t="1560" ac="0"> to</s><s t="1720" ac="0"> the</s><s t="2039" ac="0"> three</s></p>
+<p t="623269" d="3171" w="1" a="1">
+</p>
+<p t="623279" d="4521" w="1"><s ac="0">star</s><s t="281" ac="0"> level</s><s t="721" ac="0"> the</s><s t="881" ac="0"> service</s><s t="1481" ac="0"> was</s><s t="1961" ac="0"> awful</s><s t="2961" ac="0"> you</s></p>
+<p t="626430" d="1370" w="1" a="1">
+</p>
+<p t="626440" d="3240" w="1"><s ac="0">have</s><s t="120" ac="0"> to</s><s t="240" ac="0"> wave</s><s t="560" ac="0"> to</s><s t="680" ac="0"> get</s><s t="800" ac="0"> the</s><s t="920" ac="0"> waiter&#39;s</s></p>
+<p t="627790" d="1890" w="1" a="1">
+</p>
+<p t="627800" d="3560" w="1"><s ac="0">attention</s><s t="320" ac="0"> to</s><s t="520" ac="0"> add</s><s t="760" ac="0"> water</s><s t="1000" ac="0"> or</s><s t="1320" ac="0"> change</s><s t="1599" ac="0"> plates</s></p>
+<p t="629670" d="1690" w="1" a="1">
+</p>
+<p t="629680" d="2719" w="1"><s ac="0">for</s><s t="159" ac="0"> you</s><s t="520" ac="0"> one</s><s t="719" ac="0"> star</s><s t="1080" ac="0"> I&#39;m</s><s t="1159" ac="0"> going</s><s t="1279" ac="0"> to</s><s t="1360" ac="0"> be</s><s t="1440" ac="0"> honest</s></p>
+<p t="631350" d="1049" w="1" a="1">
+</p>
+<p t="631360" d="3520" w="1"><s ac="0">I</s><s t="39" ac="0"> don&#39;t</s><s t="159" ac="0"> know</s><s t="280" ac="0"> where</s><s t="440" ac="0"> else</s><s t="680" ac="0"> this</s><s t="800" ac="0"> guy</s><s t="960" ac="0"> is</s></p>
+<p t="632389" d="2491" w="1" a="1">
+</p>
+<p t="632399" d="4680" w="1"><s ac="0">eating</s><s t="440" ac="0"> but</s><s t="841" ac="0"> he</s><s t="961" ac="0"> seems</s><s t="1281" ac="0"> picky</s><s t="1880" ac="0"> lastly</s><s t="2201" ac="0"> we</s><s t="2321" ac="0"> have</s></p>
+<p t="634870" d="2209" w="1" a="1">
+</p>
+<p t="634880" d="4240" w="1"><s ac="0">one</s><s t="160" ac="0"> from</s><s t="320" ac="0"> Jody</s><s t="880" ac="0"> I</s><s t="1000" ac="0"> made</s><s t="1160" ac="0"> a</s><s t="1320" ac="0"> reservation</s><s t="1840" ac="0"> for</s></p>
+<p t="637069" d="2051" w="1" a="1">
+</p>
+<p t="637079" d="5041" w="1"><s ac="0">four</s><s t="200" ac="0"> people</s><s t="681" ac="0"> but</s><s t="880" ac="0"> had</s><s t="1000" ac="0"> to</s><s t="1161" ac="0"> change</s><s t="1401" ac="0"> it</s><s t="1841" ac="0"> they</s></p>
+<p t="639110" d="3010" w="1" a="1">
+</p>
+<p t="639120" d="5519" w="1"><s ac="0">got</s><s t="279" ac="0"> mad</s><s t="880" ac="0"> I</s><s t="1000" ac="0"> had</s><s t="1200" ac="0"> four</s><s t="1519" ac="0"> CEOs</s><s t="2040" ac="0"> of</s><s t="2240" ac="0"> top</s><s t="2519" ac="0"> Silicon</s></p>
+<p t="642110" d="2529" w="1" a="1">
+</p>
+<p t="642120" d="4760" w="1"><s ac="0">Valley</s><s t="320" ac="0"> startups</s><s t="760" ac="0"> with</s><s t="880" ac="0"> me</s><s t="1399" ac="0"> bad</s><s t="1719" ac="0"> service</s><s t="2279" ac="0"> all</s></p>
+<p t="644629" d="2251" w="1" a="1">
+</p>
+<p t="644639" d="4440" w="1"><s ac="0">around</s><s t="601" ac="0"> one</s><s t="880" ac="0"> star</s><s t="1401" ac="0"> she</s><s t="1561" ac="0"> was</s><s t="1721" ac="0"> angry</s><s t="2000" ac="0"> when</s><s t="2121" ac="0"> she</s></p>
+<p t="646870" d="2209" w="1" a="1">
+</p>
+<p t="646880" d="3519" w="1"><s ac="0">wrote</s><s t="280" ac="0"> this</s><s t="639" ac="0"> it&#39;s</s><s t="800" ac="0"> time</s><s t="959" ac="0"> for</s><s t="1120" ac="0"> my</s><s t="1280" ac="0"> reservation</s></p>
+<p t="649069" d="1330" w="1" a="1">
+</p>
+<p t="649079" d="3521" w="1"><s ac="0">uh</s><s t="121" ac="0"> here&#39;s</s><s t="281" ac="0"> the</s><s t="440" ac="0"> thing</s><s t="721" ac="0"> I</s><s t="841" ac="0"> actually</s><s t="1041" ac="0"> made</s><s t="1241" ac="0"> the</s></p>
+<p t="650389" d="2211" w="1" a="1">
+</p>
+<p t="650399" d="4321" w="1"><s ac="0">reservation</s><s t="401" ac="0"> for</s><s t="601" ac="0"> two</s><s t="801" ac="0"> people</s><s t="1401" ac="0"> and</s><s t="1841" ac="0"> it&#39;s</s><s t="2041" ac="0"> just</s></p>
+<p t="652590" d="2130" w="1" a="1">
+</p>
+<p t="652600" d="4520" w="1"><s ac="0">me</s><s t="320" ac="0"> today</s><s t="880" ac="0"> so</s><s t="1400" ac="0"> yeah</s><s t="1560" ac="0"> time</s><s t="1679" ac="0"> to</s><s t="1760" ac="0"> see</s><s t="1880" ac="0"> if</s><s t="1960" ac="0"> they&#39;ll</s></p>
+<p t="654710" d="2410" w="1" a="1">
+</p>
+<p t="654720" d="2400" w="1"><s ac="0">get</s><s t="119" ac="0"> mad</s><s t="280" ac="0"> at</s></p>
+<p t="658030" w="1" a="1">
+</p>
+<p t="658040" d="3000" w="1"><s ac="0">me</s></p>
+<p t="663829" w="1" a="1">
+</p>
+<p t="663839" d="3881" w="1"><s ac="0">hello</s><s t="481" ac="0"> it&#39;s</s><s t="680" ac="0"> for</s><s t="961" ac="0"> two</s><s t="1401" ac="0"> but</s><s t="1560" ac="0"> it&#39;s</s><s t="1721" ac="0"> just</s><s t="1881" ac="0"> me</s></p>
+<p t="665910" d="1810" w="1" a="1">
+</p>
+<p t="665920" d="3880" w="1"><s ac="0">tonight</s><s t="320" ac="0"> is</s><s t="440" ac="0"> that</s><s t="680" ac="0"> okay</s><s t="1080" ac="0"> I</s><s t="1159" ac="0"> was</s><s t="1320" ac="0"> immediately</s></p>
+<p t="667710" d="2090" w="1" a="1">
+</p>
+<p t="667720" d="4520" w="1"><s ac="0">taken</s><s t="359" ac="0"> and</s><s t="559" ac="0"> asked</s><s t="799" ac="0"> to</s><s t="960" ac="0"> sit</s><s t="1160" ac="0"> in</s><s t="1280" ac="0"> a</s><s t="1440" ac="0"> waiting</s><s t="1799" ac="0"> area</s></p>
+<p t="669790" d="2450" w="1" a="1">
+</p>
+<p t="669800" d="4839" w="1"><s ac="0">while</s><s t="159" ac="0"> they</s><s t="279" ac="0"> figured</s><s t="560" ac="0"> out</s><s t="719" ac="0"> my</s></p>
+<p t="672230" d="2409" w="1" a="1">
+</p>
+<p t="672240" d="3880" w="1"><s ac="0">reservation</s><s t="1000" ac="0"> cool</s><s t="1279" ac="0"> thank</s><s t="1440" ac="0"> you</s><s t="1599" ac="0"> appreciate</s><s t="1960" ac="0"> it</s></p>
+<p t="674629" d="1491" w="1" a="1">
+</p>
+<p t="674639" d="2601" w="1"><s ac="0">I</s><s t="81" ac="0"> was</s><s t="161" ac="0"> a</s><s t="281" ac="0"> little</s><s t="481" ac="0"> worried</s><s t="961" ac="0"> this</s><s t="1081" ac="0"> was</s><s t="1241" ac="0"> going</s><s t="1361" ac="0"> to</s></p>
+<p t="676110" d="1130" w="1" a="1">
+</p>
+<p t="676120" d="4719" w="1"><s ac="0">be</s><s t="120" ac="0"> a</s></p>
+<p t="677230" d="3609" w="1" a="1">
+</p>
+<p t="677240" d="7080" w="1"><s ac="0">problem</s><s t="1000" ac="0"> but</s><s t="1240" ac="0"> after</s><s t="1440" ac="0"> a</s><s t="1599" ac="0"> little</s><s t="2279" ac="0"> while</s><s t="3279" ac="0"> okay</s><s t="3440" ac="0"> so</s></p>
+<p t="680829" d="3491" w="1" a="1">
+</p>
+<p t="680839" d="4841" w="1"><s ac="0">I</s><s t="120" ac="0"> just</s><s t="240" ac="0"> got</s><s t="440" ac="0"> seated</s><s t="1440" ac="0"> nobody</s><s t="1761" ac="0"> got</s><s t="1921" ac="0"> mad</s><s t="2560" ac="0"> so</s></p>
+<p t="684310" d="1370" w="1" a="1">
+</p>
+<p t="684320" d="3639" w="1"><s ac="0">we&#39;re</s></p>
+<p t="685670" d="2289" w="1" a="1">
+</p>
+<p t="685680" d="4959" w="1"><s ac="0">good</s><s t="1000" ac="0"> so</s><s t="1200" ac="0"> after</s><s t="1399" ac="0"> being</s><s t="1560" ac="0"> seated</s><s t="1959" ac="0"> I</s><s t="2080" ac="0"> was</s></p>
+<p t="687949" d="2690" w="1" a="1">
+</p>
+<p t="687959" d="5120" w="1"><s ac="0">immediately</s><s t="481" ac="0"> handed</s><s t="801" ac="0"> a</s><s t="1161" ac="0"> hot</s><s t="1361" ac="0"> towel</s><s t="2361" ac="0"> very</s></p>
+<p t="690629" d="2450" w="1" a="1">
+</p>
+<p t="690639" d="5320" w="1"><s ac="0">fancy</s><s t="880" ac="0"> right</s><s t="1041" ac="0"> off</s><s t="1200" ac="0"> the</s><s t="1320" ac="0"> bat</s><s t="1640" ac="0"> guys</s><s t="2000" ac="0"> this</s><s t="2241" ac="0"> place</s></p>
+<p t="693069" d="2890" w="1" a="1">
+</p>
+<p t="693079" d="5041" w="1"><s ac="0">feels</s><s t="681" ac="0"> way</s><s t="1000" ac="0"> less</s><s t="1320" ac="0"> overwhelming</s><s t="2161" ac="0"> than</s><s t="2401" ac="0"> the</s><s t="2601" ac="0"> two</s></p>
+<p t="695949" d="2171" w="1" a="1">
+</p>
+<p t="695959" d="4161" w="1"><s ac="0">star</s><s t="241" ac="0"> Michelin</s><s t="641" ac="0"> restaurant</s><s t="1201" ac="0"> it</s><s t="1521" ac="0"> feels</s><s t="2041" ac="0"> kind</s></p>
+<p t="698110" d="2010" w="1" a="1">
+</p>
+<p t="698120" d="5959" w="1"><s ac="0">of</s><s t="159" ac="0"> laidback</s><s t="800" ac="0"> which</s><s t="920" ac="0"> is</s><s t="1080" ac="0"> surprising</s><s t="1839" ac="0"> it&#39;s</s></p>
+<p t="700110" d="3969" w="1" a="1">
+</p>
+<p t="700120" d="6240" w="1"><s ac="0">still</s><s t="519" ac="0"> fancy</s><s t="1519" ac="0"> but</s><s t="1800" ac="0"> like</s><s t="2320" ac="0"> not</s><s t="2560" ac="0"> intense</s><s t="3040" ac="0"> fancy</s></p>
+<p t="704069" d="2291" w="1" a="1">
+</p>
+<p t="704079" d="4801" w="1"><s ac="0">it</s><s t="200" ac="0"> is</s><s t="481" ac="0"> a</s><s t="601" ac="0"> little</s><s t="921" ac="0"> awkward</s><s t="1281" ac="0"> eating</s><s t="1681" ac="0"> by</s><s t="1841" ac="0"> myself</s></p>
+<p t="706350" d="2530" w="1" a="1">
+</p>
+<p t="706360" d="3800" w="1"><s ac="0">though</s><s t="440" ac="0"> that&#39;s</s><s t="599" ac="0"> the</s><s t="680" ac="0"> other</s><s t="1120" ac="0"> camera</s><s t="2120" ac="0"> now</s><s t="2279" ac="0"> even</s></p>
+<p t="708870" d="1290" w="1" a="1">
+</p>
+<p t="708880" d="3519" w="1"><s ac="0">though</s><s t="160" ac="0"> I&#39;m</s><s t="360" ac="0"> pretty</s><s t="600" ac="0"> happy</s><s t="840" ac="0"> with</s><s t="1000" ac="0"> everything</s></p>
+<p t="710150" d="2249" w="1" a="1">
+</p>
+<p t="710160" d="4320" w="1"><s ac="0">so</s><s t="160" ac="0"> far</s><s t="400" ac="0"> there</s><s t="520" ac="0"> are</s><s t="799" ac="0"> three</s><s t="1359" ac="0"> main</s><s t="1720" ac="0"> issues</s><s t="2080" ac="0"> with</s></p>
+<p t="712389" d="2091" w="1" a="1">
+</p>
+<p t="712399" d="4641" w="1"><s ac="0">this</s><s t="201" ac="0"> place</s><s t="1081" ac="0"> I&#39;ve</s><s t="1201" ac="0"> already</s><s t="1401" ac="0"> proved</s><s t="1801" ac="0"> the</s><s t="1880" ac="0"> first</s></p>
+<p t="714470" d="2570" w="1" a="1">
+</p>
+<p t="714480" d="4039" w="1"><s ac="0">one</s><s t="200" ac="0"> wrong</s><s t="640" ac="0"> they</s><s t="760" ac="0"> didn&#39;t</s><s t="1039" ac="0"> get</s><s t="1200" ac="0"> mad</s><s t="1400" ac="0"> at</s><s t="1520" ac="0"> me</s><s t="1760" ac="0"> so</s></p>
+<p t="717030" d="1489" w="1" a="1">
+</p>
+<p t="717040" d="3239" w="1"><s ac="0">that&#39;s</s><s t="239" ac="0"> good</s><s t="640" ac="0"> we&#39;ll</s><s t="799" ac="0"> see</s><s t="919" ac="0"> if</s><s t="1039" ac="0"> the</s><s t="1120" ac="0"> others</s><s t="1320" ac="0"> are</s></p>
+<p t="718509" d="1770" w="1" a="1">
+</p>
+<p t="718519" d="3601" w="1"><s ac="0">true</s><s t="241" ac="0"> though</s><s t="601" ac="0"> now</s><s t="760" ac="0"> dinner</s><s t="1000" ac="0"> at</s><s t="1161" ac="0"> benu</s><s t="1521" ac="0"> starts</s></p>
+<p t="720269" d="1851" w="1" a="1">
+</p>
+<p t="720279" d="3800" w="1"><s ac="0">with</s><s t="201" ac="0"> a</s><s t="360" ac="0"> few</s><s t="641" ac="0"> small</s><s t="961" ac="0"> bites</s><s t="1441" ac="0"> like</s><s t="1641" ac="0"> this</s></p>
+<p t="722110" d="1969" w="1" a="1">
+</p>
+<p t="722120" d="4159" w="1"><s ac="0">thousand-year-old</s><s t="560" ac="0"> quail</s><s t="1080" ac="0"> egg</s><s t="1360" ac="0"> with</s><s t="1519" ac="0"> ginger</s></p>
+<p t="724069" d="2210" w="1" a="1">
+</p>
+<p t="724079" d="6921" w="1"><s ac="0">and</s><s t="241" ac="0"> cabbage</s><s t="601" ac="0"> juice</s><s t="1320" ac="0"> it</s><s t="1440" ac="0"> didn&#39;t</s><s t="1681" ac="0"> sound</s><s t="1921" ac="0"> super</s></p>
+<p t="726269" d="4731" w="1" a="1">
+</p>
+<p t="726279" d="4721" w="1"><s ac="0">appetizing</s><s t="481" ac="0"> at</s><s t="800" ac="0"> first</s><s t="1800" ac="0"> but</s><s t="1921" ac="0"> it&#39;s</s><s t="2041" ac="0"> plated</s><s t="2481" ac="0"> very</s></p>
+<p t="731430" w="1" a="1">
+</p>
+<p t="731440" d="4720" w="1"><s ac="0">cute</s><s t="1000" ac="0"> my</s><s t="1160" ac="0"> initial</s><s t="1519" ac="0"> thoughts</s><s t="2360" ac="0"> absolutely</s></p>
+<p t="734389" d="1771" w="1" a="1">
+</p>
+<p t="734399" d="4361" w="1"><s ac="0">amazing</s><s t="440" ac="0"> then</s><s t="721" ac="0"> the</s><s t="800" ac="0"> waitress</s><s t="1281" ac="0"> recommended</s></p>
+<p t="736150" d="2610" w="1" a="1">
+</p>
+<p t="736160" d="5600" w="1"><s ac="0">some</s><s t="160" ac="0"> fancy</s><s t="440" ac="0"> sake</s><s t="1239" ac="0"> I</s><s t="1359" ac="0"> ordered</s><s t="1679" ac="0"> it</s><s t="2359" ac="0"> but</s><s t="2479" ac="0"> it</s></p>
+<p t="738750" d="3010" w="1" a="1">
+</p>
+<p t="738760" d="4439" w="1"><s ac="0">turns</s><s t="240" ac="0"> out</s><s t="960" ac="0"> I</s><s t="1079" ac="0"> don&#39;t</s><s t="1240" ac="0"> like</s><s t="1519" ac="0"> sake</s><s t="2519" ac="0"> it&#39;s</s><s t="2720" ac="0"> fine</s></p>
+<p t="741750" d="1449" w="1" a="1">
+</p>
+<p t="741760" d="3480" w="1"><s ac="0">though</s><s t="199" ac="0"> I</s><s t="280" ac="0"> started</s><s t="560" ac="0"> chugging</s><s t="920" ac="0"> water</s><s t="1160" ac="0"> to</s><s t="1319" ac="0"> get</s></p>
+<p t="743189" d="2051" w="1" a="1">
+</p>
+<p t="743199" d="4521" w="1"><s ac="0">rid</s><s t="121" ac="0"> of</s><s t="200" ac="0"> The</s><s t="361" ac="0"> Taste</s><s t="1121" ac="0"> time</s><s t="1281" ac="0"> to</s><s t="1401" ac="0"> see</s><s t="1561" ac="0"> if</s><s t="1681" ac="0"> my</s><s t="1841" ac="0"> water</s></p>
+<p t="745230" d="2490" w="1" a="1">
+</p>
+<p t="745240" d="2480" w="1"><s ac="0">is</s><s t="120" ac="0"> going</s><s t="200" ac="0"> to</s><s t="360" ac="0"> get</s></p>
+<p t="747870" w="1" a="1">
+</p>
+<p t="747880" d="3000" w="1"><s ac="0">refilled</s></p>
+<p t="751350" w="1" a="1">
+</p>
+<p t="751360" d="4320" w="1"><s ac="0">19</s><s t="520" ac="0"> seconds</s><s t="1000" ac="0"> so</s><s t="1159" ac="0"> it</s><s t="1240" ac="0"> seems</s><s t="1440" ac="0"> like</s><s t="1560" ac="0"> benu</s><s t="1960" ac="0"> is</s><s t="2039" ac="0"> off</s></p>
+<p t="753550" d="2130" w="1" a="1">
+</p>
+<p t="753560" d="4160" w="1"><s ac="0">to</s><s t="160" ac="0"> a</s><s t="360" ac="0"> great</s><s t="600" ac="0"> start</s><s t="1120" ac="0"> two</s><s t="1440" ac="0"> of</s><s t="1600" ac="0"> the</s><s t="1719" ac="0"> harshest</s></p>
+<p t="755670" d="2050" w="1" a="1">
+</p>
+<p t="755680" d="4440" w="1"><s ac="0">reviews</s><s t="399" ac="0"> are</s><s t="640" ac="0"> already</s><s t="959" ac="0"> busted</s><s t="1599" ac="0"> now</s><s t="1719" ac="0"> the</s><s t="1839" ac="0"> next</s></p>
+<p t="757710" d="2410" w="1" a="1">
+</p>
+<p t="757720" d="7119" w="1"><s ac="0">course</s><s t="359" ac="0"> is</s><s t="520" ac="0"> a</s><s t="720" ac="0"> crispy</s><s t="1280" ac="0"> fried</s><s t="1720" ac="0"> frog</s><s t="2080" ac="0"> leg</s></p>
+<p t="760110" d="4729" w="1" a="1">
+</p>
+<p t="760120" d="4719" w="1"><s ac="0">sauteed</s><s t="600" ac="0"> with</s><s t="800" ac="0"> chilies</s><s t="1440" ac="0"> this</s><s t="1560" ac="0"> is</s><s t="2519" ac="0"> a</s></p>
+<p t="768350" w="1" a="1">
+</p>
+<p t="768360" d="5479" w="1"><s ac="0">first</s><s t="1000" ac="0"> it</s><s t="1159" ac="0"> kind</s><s t="1240" ac="0"> of</s><s t="1320" ac="0"> tastes</s><s t="1520" ac="0"> like</s><s t="1680" ac="0"> chicken</s></p>
+<p t="770829" d="3010" w="1" a="1">
+</p>
+<p t="770839" d="4521" w="1"><s ac="0">it&#39;s</s><s t="281" ac="0"> perfectly</s><s t="761" ac="0"> fried</s><s t="1321" ac="0"> and</s><s t="1560" ac="0"> so</s><s t="2041" ac="0"> juicy</s><s t="2841" ac="0"> now</s></p>
+<p t="773829" d="1531" w="1" a="1">
+</p>
+<p t="773839" d="3481" w="1"><s ac="0">just</s><s t="120" ac="0"> like</s><s t="281" ac="0"> Blue</s><s t="521" ac="0"> Hill</s><s t="680" ac="0"> at</s><s t="800" ac="0"> Stone</s><s t="1041" ac="0"> Barnes</s><s t="1401" ac="0"> a</s></p>
+<p t="775350" d="1970" w="1" a="1">
+</p>
+<p t="775360" d="3960" w="1"><s ac="0">majority</s><s t="360" ac="0"> of</s><s t="479" ac="0"> the</s><s t="560" ac="0"> next</s><s t="880" ac="0"> dishes</s><s t="1279" ac="0"> were</s><s t="1640" ac="0"> small</s></p>
+<p t="777310" d="2010" w="1" a="1">
+</p>
+<p t="777320" d="5319" w="1"><s ac="0">bites</s><s t="639" ac="0"> but</s><s t="800" ac="0"> the</s><s t="920" ac="0"> flavors</s><s t="1319" ac="0"> of</s><s t="1560" ac="0"> of</s><s t="1680" ac="0"> these</s><s t="1800" ac="0"> were</s></p>
+<p t="779310" d="3329" w="1" a="1">
+</p>
+<p t="779320" d="5800" w="1"><s ac="0">on</s><s t="360" ac="0"> another</s><s t="1199" ac="0"> level</s><s t="2199" ac="0"> I</s><s t="2400" ac="0"> especially</s><s t="2879" ac="0"> loved</s></p>
+<p t="782629" d="2491" w="1" a="1">
+</p>
+<p t="782639" d="5521" w="1"><s ac="0">these</s><s t="281" ac="0"> pine</s><s t="601" ac="0"> of</s><s t="760" ac="0"> mushroom</s><s t="1281" ac="0"> Xiao</s><s t="1640" ac="0"> long</s><s t="1880" ac="0"> bows</s></p>
+<p t="785110" d="3050" w="1" a="1">
+</p>
+<p t="785120" d="5680" w="1"><s ac="0">which</s><s t="200" ac="0"> made</s><s t="760" ac="0"> a</s><s t="1000" ac="0"> wave</s><s t="1279" ac="0"> of</s><s t="1519" ac="0"> nostalgia</s><s t="2360" ac="0"> just</s><s t="2760" ac="0"> hit</s></p>
+<p t="788150" d="2650" w="1" a="1">
+</p>
+<p t="788160" d="4200" w="1"><s ac="0">me</s><s t="1000" ac="0"> I</s><s t="1080" ac="0"> used</s><s t="1280" ac="0"> to</s><s t="1359" ac="0"> eat</s><s t="1600" ac="0"> these</s><s t="1840" ac="0"> all</s><s t="2000" ac="0"> the</s><s t="2160" ac="0"> time</s><s t="2359" ac="0"> as</s><s t="2479" ac="0"> a</s></p>
+<p t="790790" d="1570" w="1" a="1">
+</p>
+<p t="790800" d="4279" w="1"><s ac="0">kid</s><s t="320" ac="0"> and</s><s t="399" ac="0"> it&#39;s</s><s t="599" ac="0"> the</s><s t="760" ac="0"> first</s><s t="1039" ac="0"> dish</s><s t="1360" ac="0"> that</s></p>
+<p t="792350" d="2729" w="1" a="1">
+</p>
+<p t="792360" d="4960" w="1"><s ac="0">genuinely</s><s t="479" ac="0"> made</s><s t="640" ac="0"> me</s><s t="800" ac="0"> a</s><s t="880" ac="0"> little</s><s t="1599" ac="0"> emotional</s><s t="2599" ac="0"> oh</s></p>
+<p t="795069" d="2251" w="1" a="1">
+</p>
+<p t="795079" d="4921" w="1"><s ac="0">my</s><s t="200" ac="0"> God</s><s t="401" ac="0"> those</s><s t="521" ac="0"> were</s><s t="841" ac="0"> amazing</s><s t="1841" ac="0"> I&#39;m</s><s t="2041" ac="0"> pretty</s></p>
+<p t="797310" d="2690" w="1" a="1">
+</p>
+<p t="797320" d="4879" w="1"><s ac="0">sure</s><s t="199" ac="0"> they</s><s t="319" ac="0"> almost</s><s t="560" ac="0"> made</s><s t="680" ac="0"> me</s><s t="1079" ac="0"> cry</s><s t="2079" ac="0"> so</s><s t="2280" ac="0"> now</s><s t="2440" ac="0"> that</s></p>
+<p t="799990" d="2209" w="1" a="1">
+</p>
+<p t="800000" d="5320" w="1"><s ac="0">two</s><s t="360" ac="0"> of</s><s t="480" ac="0"> the</s><s t="600" ac="0"> bad</s><s t="839" ac="0"> reviews</s><s t="1199" ac="0"> are</s><s t="1519" ac="0"> completely</s></p>
+<p t="802189" d="3131" w="1" a="1">
+</p>
+<p t="802199" d="5401" w="1"><s ac="0">busted</s><s t="1000" ac="0"> there&#39;s</s><s t="1200" ac="0"> only</s><s t="1481" ac="0"> one</s><s t="1640" ac="0"> more</s><s t="1880" ac="0"> to</s><s t="2080" ac="0"> test</s><s t="2921" ac="0"> so</s></p>
+<p t="805310" d="2290" w="1" a="1">
+</p>
+<p t="805320" d="3759" w="1"><s ac="0">this</s><s t="160" ac="0"> next</s><s t="400" ac="0"> course</s><s t="840" ac="0"> was</s><s t="1040" ac="0"> very</s><s t="1319" ac="0"> big</s><s t="1879" ac="0"> it</s><s t="2000" ac="0"> was</s><s t="2120" ac="0"> a</s></p>
+<p t="807590" d="1489" w="1" a="1">
+</p>
+<p t="807600" d="3760" w="1"><s ac="0">variety</s><s t="400" ac="0"> of</s><s t="520" ac="0"> little</s><s t="760" ac="0"> dishes</s><s t="1039" ac="0"> that</s><s t="1239" ac="0"> that</s><s t="1359" ac="0"> could</s></p>
+<p t="809069" d="2291" w="1" a="1">
+</p>
+<p t="809079" d="3601" w="1"><s ac="0">be</s><s t="81" ac="0"> mixed</s><s t="361" ac="0"> and</s><s t="521" ac="0"> matched</s><s t="1000" ac="0"> together</s><s t="1961" ac="0"> there</s><s t="2081" ac="0"> was</s></p>
+<p t="811350" d="1330" w="1" a="1">
+</p>
+<p t="811360" d="3719" w="1"><s ac="0">half-dried</s><s t="320" ac="0"> fluke</s><s t="760" ac="0"> with</s><s t="880" ac="0"> seasonal</s></p>
+<p t="812670" d="2409" w="1" a="1">
+</p>
+<p t="812680" d="4680" w="1"><s ac="0">vegetables</s><s t="599" ac="0"> marinated</s><s t="1120" ac="0"> raw</s><s t="1399" ac="0"> spot</s><s t="1680" ac="0"> prawns</s></p>
+<p t="815069" d="2291" w="1" a="1">
+</p>
+<p t="815079" d="4281" w="1"><s ac="0">cabbage</s><s t="281" ac="0"> manari</s><s t="721" ac="0"> kimchi</s><s t="1320" ac="0"> rice</s><s t="1921" ac="0"> and</s><s t="2041" ac="0"> a</s><s t="2120" ac="0"> bunch</s></p>
+<p t="817350" d="2010" w="1" a="1">
+</p>
+<p t="817360" d="3440" w="1"><s ac="0">of</s><s t="159" ac="0"> other</s><s t="360" ac="0"> stuff</s><s t="880" ac="0"> I</s><s t="1039" ac="0"> get</s><s t="1159" ac="0"> to</s><s t="1440" ac="0"> essentially</s><s t="1800" ac="0"> eat</s></p>
+<p t="819350" d="1450" w="1" a="1">
+</p>
+<p t="819360" d="3120" w="1"><s ac="0">this</s><s t="279" ac="0"> however</s><s t="479" ac="0"> I</s><s t="599" ac="0"> want</s><s t="839" ac="0"> I</s><s t="919" ac="0"> can</s><s t="1039" ac="0"> make</s><s t="1240" ac="0"> little</s></p>
+<p t="820790" d="1690" w="1" a="1">
+</p>
+<p t="820800" d="5719" w="1"><s ac="0">wraps</s><s t="440" ac="0"> I</s><s t="520" ac="0"> can</s><s t="640" ac="0"> add</s><s t="800" ac="0"> the</s><s t="960" ac="0"> rice</s><s t="1159" ac="0"> and</s><s t="1279" ac="0"> eat</s><s t="1440" ac="0"> it</s><s t="1560" ac="0"> with</s></p>
+<p t="822470" d="4049" w="1" a="1">
+</p>
+<p t="822480" d="6400" w="1"><s ac="0">the</s><s t="479" ac="0"> fish</s><s t="1479" ac="0"> it&#39;s</s><s t="1599" ac="0"> a</s><s t="1840" ac="0"> it&#39;s</s><s t="1919" ac="0"> a</s><s t="2200" ac="0"> DIY</s><s t="3200" ac="0"> meal</s><s t="3840" ac="0"> of</s></p>
+<p t="826509" d="2371" w="1" a="1">
+</p>
+<p t="826519" d="5161" w="1"><s ac="0">course</s><s t="1000" ac="0"> this</s><s t="1120" ac="0"> is</s><s t="1281" ac="0"> the</s><s t="1521" ac="0"> best</s><s t="1760" ac="0"> opportunity</s><s t="2241" ac="0"> for</s></p>
+<p t="828870" d="2810" w="1" a="1">
+</p>
+<p t="828880" d="5280" w="1"><s ac="0">me</s><s t="120" ac="0"> to</s><s t="240" ac="0"> test</s><s t="480" ac="0"> kiyoko&#39;s</s><s t="1120" ac="0"> review</s><s t="2120" ac="0"> I</s><s t="2240" ac="0"> spent</s><s t="2600" ac="0"> an</s></p>
+<p t="831670" d="2490" w="1" a="1">
+</p>
+<p t="831680" d="6279" w="1"><s ac="0">aggressively</s><s t="880" ac="0"> long</s><s t="1320" ac="0"> time</s><s t="1640" ac="0"> eating</s><s t="2079" ac="0"> all</s><s t="2200" ac="0"> of</s><s t="2360" ac="0"> the</s></p>
+<p t="834150" d="3809" w="1" a="1">
+</p>
+<p t="834160" d="5720" w="1"><s ac="0">food</s><s t="880" ac="0"> and</s><s t="1160" ac="0"> while</s><s t="1479" ac="0"> I</s><s t="1640" ac="0"> was</s><s t="1919" ac="0"> mid</s><s t="2280" ac="0"> bit</s><s t="3000" ac="0"> a</s><s t="3160" ac="0"> waiter</s></p>
+<p t="837949" d="1931" w="1" a="1">
+</p>
+<p t="837959" d="4521" w="1"><s ac="0">actually</s><s t="361" ac="0"> came</s><s t="521" ac="0"> up</s><s t="641" ac="0"> to</s><s t="800" ac="0"> to</s><s t="921" ac="0"> me</s><s t="1041" ac="0"> and</s><s t="1240" ac="0"> said</s><s t="1800" ac="0"> now</s></p>
+<p t="839870" d="2610" w="1" a="1">
+</p>
+<p t="839880" d="6639" w="1"><s ac="0">did</s><s t="120" ac="0"> you</s><s t="240" ac="0"> want</s><s t="360" ac="0"> some</s><s t="480" ac="0"> more</s><s t="759" ac="0"> rice</s><s t="1240" ac="0"> there</s></p>
+<p t="842470" d="4049" w="1" a="1">
+</p>
+<p t="842480" d="5760" w="1"><s ac="0">um</s><s t="1000" ac="0"> sure</s><s t="1760" ac="0"> yeah</s><s t="2240" ac="0"> okay</s><s t="3200" ac="0"> I&#39;ll</s><s t="3320" ac="0"> let</s><s t="3440" ac="0"> Chef</s><s t="3760" ac="0"> know</s></p>
+<p t="846509" d="1731" w="1" a="1">
+</p>
+<p t="846519" d="4361" w="1"><s ac="0">okay</s><s t="240" ac="0"> awesome</s><s t="481" ac="0"> thank</s><s t="641" ac="0"> you</s><s t="880" ac="0"> turns</s><s t="1161" ac="0"> out</s><s t="1560" ac="0"> they</s></p>
+<p t="848230" d="2650" w="1" a="1">
+</p>
+<p t="848240" d="4719" w="1"><s ac="0">did</s><s t="240" ac="0"> the</s><s t="480" ac="0"> exact</s><s t="920" ac="0"> opposite</s><s t="1360" ac="0"> of</s><s t="1480" ac="0"> the</s><s t="1640" ac="0"> review</s></p>
+<p t="850870" d="2089" w="1" a="1">
+</p>
+<p t="850880" d="3560" w="1"><s ac="0">fantastic</s><s t="1000" ac="0"> appreciate</s><s t="1319" ac="0"> it</s><s t="1560" ac="0"> and</s><s t="1720" ac="0"> once</s><s t="1920" ac="0"> I</s></p>
+<p t="852949" d="1491" w="1" a="1">
+</p>
+<p t="852959" d="3961" w="1"><s ac="0">stopped</s></p>
+<p t="854430" d="2490" w="1" a="1">
+</p>
+<p t="854440" d="4120" w="1"><s ac="0">eating</s><s t="1000" ac="0"> because</s><s t="1240" ac="0"> of</s><s t="1360" ac="0"> the</s><s t="1519" ac="0"> reviews</s><s t="1959" ac="0"> I</s><s t="2120" ac="0"> expected</s></p>
+<p t="856910" d="1650" w="1" a="1">
+</p>
+<p t="856920" d="3520" w="1"><s ac="0">them</s><s t="120" ac="0"> to</s><s t="279" ac="0"> take</s><s t="400" ac="0"> the</s><s t="520" ac="0"> dishes</s><s t="839" ac="0"> away</s><s t="1240" ac="0"> but</s><s t="1520" ac="0"> they</s></p>
+<p t="858550" d="1890" w="1" a="1">
+</p>
+<p t="858560" d="4719" w="1"><s ac="0">didn&#39;t</s><s t="399" ac="0"> they</s><s t="519" ac="0"> let</s><s t="639" ac="0"> me</s><s t="760" ac="0"> finish</s><s t="1040" ac="0"> the</s><s t="1120" ac="0"> food</s><s t="1639" ac="0"> bad</s></p>
+<p t="860430" d="2849" w="1" a="1">
+</p>
+<p t="860440" d="5040" w="1"><s ac="0">review</s><s t="280" ac="0"> number</s><s t="519" ac="0"> three</s><s t="1519" ac="0"> debunked</s><s t="2519" ac="0"> the</s><s t="2680" ac="0"> last</s></p>
+<p t="863269" d="2211" w="1" a="1">
+</p>
+<p t="863279" d="4161" w="1"><s ac="0">two</s><s t="161" ac="0"> courses</s><s t="560" ac="0"> were</s><s t="881" ac="0"> both</s><s t="1161" ac="0"> desserts</s><s t="1920" ac="0"> still</s></p>
+<p t="865470" d="1970" w="1" a="1">
+</p>
+<p t="865480" d="4840" w="1"><s ac="0">have</s><s t="200" ac="0"> no</s><s t="440" ac="0"> idea</s><s t="680" ac="0"> how</s><s t="799" ac="0"> I</s><s t="919" ac="0"> finished</s><s t="1320" ac="0"> these</s><s t="1680" ac="0"> I</s><s t="1799" ac="0"> was</s></p>
+<p t="867430" d="2890" w="1" a="1">
+</p>
+<p t="867440" d="6480" w="1"><s ac="0">stuffed</s><s t="720" ac="0"> i</s><s t="839" ac="0"> s</s><s t="1079" ac="0"> in</s><s t="1319" ac="0"> is</s><s t="1440" ac="0"> wrapping</s><s t="1720" ac="0"> up</s><s t="1880" ac="0"> soon</s><s t="2480" ac="0"> and</s><s t="2759" ac="0"> I</s></p>
+<p t="870310" d="3610" w="1" a="1">
+</p>
+<p t="870320" d="7280" w="1"><s ac="0">have</s><s t="120" ac="0"> some</s><s t="759" ac="0"> thoughts</s><s t="1759" ac="0"> so</s><s t="2079" ac="0"> far</s><s t="2800" ac="0"> the</s><s t="3040" ac="0"> experience</s></p>
+<p t="873910" d="3690" w="1" a="1">
+</p>
+<p t="873920" d="5320" w="1"><s ac="0">has</s><s t="159" ac="0"> been</s><s t="839" ac="0"> unreal</s><s t="1839" ac="0"> this</s><s t="1960" ac="0"> is</s><s t="2800" ac="0"> dramatically</s></p>
+<p t="877590" d="1650" w="1" a="1">
+</p>
+<p t="877600" d="3280" w="1"><s ac="0">different</s><s t="599" ac="0"> than</s><s t="960" ac="0"> all</s><s t="1120" ac="0"> of</s><s t="1280" ac="0"> the</s><s t="1400" ac="0"> other</s></p>
+<p t="879230" d="1650" w="1" a="1">
+</p>
+<p t="879240" d="3839" w="1"><s ac="0">restaurants</s><s t="480" ac="0"> I&#39;ve</s><s t="680" ac="0"> ever</s><s t="920" ac="0"> been</s><s t="1120" ac="0"> to</s><s t="1320" ac="0"> in</s><s t="1480" ac="0"> my</s></p>
+<p t="880870" d="2209" w="1" a="1">
+</p>
+<p t="880880" d="4399" w="1"><s ac="0">entire</s><s t="440" ac="0"> life</s><s t="1280" ac="0"> the</s><s t="1399" ac="0"> total</s><s t="1680" ac="0"> cost</s><s t="1840" ac="0"> of</s><s t="1920" ac="0"> eating</s></p>
+<p t="883069" d="2210" w="1" a="1">
+</p>
+<p t="883079" d="5120" w="1"><s ac="0">here</s><s t="200" ac="0"> was</s></p>
+<p t="885269" d="2930" w="1" a="1">
+</p>
+<p t="885279" d="4841" w="1"><s ac="0">$199.95</s><s t="1000" ac="0"> which</s><s t="1401" ac="0"> yes</s><s t="1680" ac="0"> is</s><s t="1841" ac="0"> a</s><s t="2000" ac="0"> lot</s><s t="2161" ac="0"> of</s><s t="2321" ac="0"> money</s><s t="2721" ac="0"> and</s></p>
+<p t="888189" d="1931" w="1" a="1">
+</p>
+<p t="888199" d="3880" w="1"><s ac="0">did</s><s t="241" ac="0"> stress</s><s t="521" ac="0"> me</s><s t="681" ac="0"> out</s><s t="1161" ac="0"> I</s><s t="1241" ac="0"> still</s><s t="1481" ac="0"> thought</s><s t="1721" ac="0"> the</s></p>
+<p t="890110" d="1969" w="1" a="1">
+</p>
+<p t="890120" d="4440" w="1"><s ac="0">creativity</s><s t="600" ac="0"> behind</s><s t="839" ac="0"> the</s><s t="959" ac="0"> food</s><s t="1639" ac="0"> perfect</s></p>
+<p t="892069" d="2491" w="1" a="1">
+</p>
+<p t="892079" d="4081" w="1"><s ac="0">service</s><s t="721" ac="0"> and</s><s t="880" ac="0"> just</s><s t="1120" ac="0"> overall</s><s t="1560" ac="0"> experience</s><s t="2200" ac="0"> was</s></p>
+<p t="894550" d="1610" w="1" a="1">
+</p>
+<p t="894560" d="3639" w="1"><s ac="0">definitely</s><s t="440" ac="0"> worth</s><s t="639" ac="0"> it</s><s t="839" ac="0"> they</s><s t="1000" ac="0"> also</s><s t="1199" ac="0"> took</s><s t="1360" ac="0"> me</s></p>
+<p t="896150" d="2049" w="1" a="1">
+</p>
+<p t="896160" d="3880" w="1"><s ac="0">back</s><s t="160" ac="0"> into</s><s t="400" ac="0"> the</s><s t="520" ac="0"> kitchen</s><s t="799" ac="0"> to</s><s t="919" ac="0"> meet</s><s t="1160" ac="0"> the</s><s t="1280" ac="0"> chef</s></p>
+<p t="898189" d="1851" w="1" a="1">
+</p>
+<p t="898199" d="3161" w="1"><s ac="0">that</s><s t="121" ac="0"> was</s><s t="241" ac="0"> very</s><s t="681" ac="0"> cool</s><s t="961" ac="0"> thanks</s><s t="1121" ac="0"> for</s><s t="1241" ac="0"> joining</s><s t="1560" ac="0"> us</s></p>
+<p t="900030" d="1330" w="1" a="1">
+</p>
+<p t="900040" d="3919" w="1"><s ac="0">yeah</s><s t="159" ac="0"> appreciate</s><s t="479" ac="0"> it</s><s t="719" ac="0"> thank</s><s t="840" ac="0"> you</s><s t="1039" ac="0"> nice</s><s t="1200" ac="0"> to</s></p>
+<p t="901350" d="2609" w="1" a="1">
+</p>
+<p t="901360" d="3960" w="1"><s ac="0">meet</s><s t="120" ac="0"> you</s><s t="399" ac="0"> likewise</s><s t="1240" ac="0"> bye</s><s t="1599" ac="0"> thank</s><s t="1760" ac="0"> you</s><s t="2440" ac="0"> yeah</s></p>
+<p t="903949" d="1371" w="1" a="1">
+</p>
+<p t="903959" d="3841" w="1"><s ac="0">good</s><s t="120" ac="0"> luck</s><s t="281" ac="0"> with</s><s t="401" ac="0"> the</s><s t="560" ac="0"> video</s><s t="1000" ac="0"> thank</s><s t="1161" ac="0"> you</s></p>
+<p t="905310" d="2490" w="1" a="1">
+</p>
+<p t="905320" d="4439" w="1"><s ac="0">appreciate</s><s t="400" ac="0"> it</s><s t="1280" ac="0"> well</s><s t="1519" ac="0"> there</s><s t="1600" ac="0"> you</s><s t="1759" ac="0"> have</s><s t="1879" ac="0"> it</s></p>
+<p t="907790" d="1969" w="1" a="1">
+</p>
+<p t="907800" d="3880" w="1"><s ac="0">there&#39;s</s><s t="240" ac="0"> dinner</s><s t="680" ac="0"> at</s><s t="800" ac="0"> a</s><s t="1039" ac="0"> three</s><s t="1320" ac="0"> star</s><s t="1520" ac="0"> Michelin</s></p>
+<p t="909749" d="1931" w="1" a="1">
+</p>
+<p t="909759" d="3200" w="1"><s ac="0">restaurant</s><s t="440" ac="0"> it</s><s t="561" ac="0"> turns</s><s t="801" ac="0"> out</s><s t="1320" ac="0"> not</s><s t="1520" ac="0"> all</s><s t="1640" ac="0"> of</s><s t="1760" ac="0"> these</s></p>
+<p t="911670" d="1289" w="1" a="1">
+</p>
+<p t="911680" d="4839" w="1"><s ac="0">restaurants</s><s t="399" ac="0"> are</s></p>
+<p t="912949" d="3570" w="1" a="1">
+</p>
+<p t="912959" d="5161" w="1"><s ac="0">scams</s><s t="1000" ac="0"> but</s><s t="1320" ac="0"> some</s><s t="2320" ac="0"> definitely</s><s t="2721" ac="0"> are</s><s t="3240" ac="0"> YouTube</s></p>
+<p t="916509" d="1611" w="1" a="1">
+</p>
+<p t="916519" d="4760" w="1"><s ac="0">thinks</s><s t="161" ac="0"> you&#39;ll</s><s t="320" ac="0"> like</s><s t="521" ac="0"> this</s><s t="680" ac="0"> video</s><s t="1081" ac="0"> so</s><s t="1481" ac="0"> go</s></p>
+<p t="918110" d="3169" w="1" a="1">
+</p>
+<p t="918120" d="3159" w="1"><s ac="0">check</s><s t="159" ac="0"> it</s><s t="279" ac="0"> out</s><s t="719" ac="0"> bye</s></p>
+</body>
+</timedtext>
